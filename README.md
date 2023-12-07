@@ -6,7 +6,7 @@ Grap the cheapest airfares for Top Destinations
 
 ## Description
 
-quickflightfares is a web application built with CodeIgniter that helps users find the cheapest airfares for top destinations. Whether you're planning a vacation, business trip, or any other travel, quickflightfares provides an easy and convenient way to search for affordable flights.
+FlyBookpro is a web application built with CodeIgniter that helps users find the cheapest airfares for top destinations. Whether you're planning a vacation, business trip, or any other travel, quickflightfares provides an easy and convenient way to search for affordable flights.
 
 ## Features
 
