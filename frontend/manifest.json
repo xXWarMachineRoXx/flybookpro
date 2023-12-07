@@ -1,0 +1,9 @@
+{
+    "name": "Quickflightfares",
+    "short_name": "qff",
+    "theme_color": "#2e7ef9",
+    "background_color": "#ffffff",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/"
+  }

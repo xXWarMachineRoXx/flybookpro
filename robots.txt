@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /application/
+Disallow: /system/
+Disallow: /cgi-bin/
+Disallow: /images/
+Disallow: /uploads/
+Disallow: /assets/
+Disallow: /private/
+Disallow: /protected/
+Disallow: /tmp/
+Disallow: /index.php
+Disallow: /index.html
+Disallow: /index.htm
+Disallow  /
+
+
+
+
+User-agent: Googlebot
+Allow: /application/views/
+Allow: /uploads/
+Allow: /frontend/
+Allow: /assets/
+Allow: /uploads/
