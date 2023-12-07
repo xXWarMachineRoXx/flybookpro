@@ -691,7 +691,7 @@ background: #fff;  /* fallback for old browsers */
     color:#121212;
 }
 .imgk span {font-size: 14px;}
-.imgk {border: 1px solid #4cc11d;border-radius: 50%;height: 30px;width: 30px;display: flex;text-align: center;align-items: center;margin-right: 15px;background: #4cc11d;color: #fff;justify-content: center;}
+.imgk {border: 1px solid #004380;border-radius: 50%;height: 30px;width: 30px;display: flex;text-align: center;align-items: center;margin-right: 15px;background: #004380;color: #fff;justify-content: center;}
 .key-point2 img {
     height: 35px;
     text-align: center;

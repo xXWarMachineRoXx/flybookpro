@@ -604,7 +604,7 @@ background: #fff;  /* fallback for old browsers */
 .clsbtn {position: absolute;right: -7px;top: 16px;font-size: 12px !important;padding: 5px !important;color: #fff !important;z-index: 9;}
 
 .destination-name{left: 50%;transform: translate(-50%);top: 0%;position: absolute;width: 100%;text-align: center;margin: 0;color: #fff;z-index:2;}
-.kp {background:#d4f8ff;padding: 15px 0;}
+.kp {background:#ff653c;padding: 15px 0;}
 .key-point2 {list-style: none;max-width: 900px;margin: 0 auto;}
 .key-point2 li {display: flex;align-items: center;font-size: 26px;color:#121212;}
 .imgk span {font-size: 14px;}
