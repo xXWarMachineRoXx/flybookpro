@@ -428,7 +428,7 @@ background-image: linear-gradient(rgba(60, 0, 0, 0.89), rgba(26, 69, 137, 0.92))
 .ss-sec span b {color:#141414;font-size: 14px;font-weight: 400;}
 .top-header2 {padding:15px 0px 15px;width: 100%;}
 .ss-sec:first-child {border-right: 0px;padding-right: 0px;margin-right: 0px;}
-.ss-sec i {font-size: 20px;background: #0cf;height: 36px;width: 36px;text-align: center;color: #fff;align-items: center;
+.ss-sec i {font-size: 20px;background: #e74933;height: 36px;width: 36px;text-align: center;color: #fff;align-items: center;
 justify-content: center;display: flex;border-radius: 50%;}
 .ss-sec span {float: left;margin-left: 10px;}
 .ss-sec h5 {margin: 0;font-size: 14px;line-height: 22px;color:#141414;}
