@@ -1,5 +1,5 @@
 <script>
-document.title = "Book Cheap Flight Ticket on Alaska Airlines - Quickflightfares";       
+document.title = "Book Cheap Flight Ticket on Alaska Airlines - Flybookpro";       
 document.getElementsByTagName('meta')["keywords"].content = "Cheap Booking flights, Online Flight Booking Service";       
 document.getElementsByTagName('meta')["description"].content = "Travel doesn't have to be expensive! Find amazing deals on flights and save big on your next trip.";   
 </script>
@@ -164,7 +164,7 @@ document.getElementsByTagName('meta')["description"].content = "Travel doesn't h
             <div class="headingtxt hdadjt">
                <div class="headh3 txt-ff txtc">Alaska Airlines - Book your flights with us and enjoy huge savings on airfare.</div>
             </div>
-           <p>It's easy to purchase <a class='text-primary'href='https://www.alaskaair.com'>Alaska Airlines</a> tickets at Quickflightfares. Additionally, everyone may book with total confidence because of our numerous reservation options and straightforward cancellation policy. Your one-stop shop for all of your travel requirements is Quickflightfares.</p>
+           <p>It's easy to purchase <a class='text-primary'href='https://www.alaskaair.com'>Alaska Airlines</a> tickets at Flybookpro. Additionally, everyone may book with total confidence because of our numerous reservation options and straightforward cancellation policy. Your one-stop shop for all of your travel requirements is Flybookpro.</p>
 <h3>Introduction to Alaska Airlines</h3>
 <p>A domestic airline with its headquarters in the US is Alaska Airlines. Seattle Tacoma International Airport serves as its core and administrative hub. The airline's secondary hub is Anchorage. Main Cabin, Premium Class, and First Class are the three service tiers offered by Alaska Airlines.</p>
 <p>Alaska Airlines has become well-known along the West Coast and in the Pacific Northwest, garnering attention on a national scale. It's also renowned for its excellent onboard service, roomy cabin, affordable basic economy rates, and blazing-fast in-flight Wi-Fi.</p>

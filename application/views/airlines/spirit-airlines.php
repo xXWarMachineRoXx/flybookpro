@@ -1,9 +1,9 @@
  <script>
- document.title = "Cheap flight tickets,  Online Tickets  - Quickflightfares";
+ document.title = "Cheap flight tickets,  Online Tickets  - Flybookpro";
 document.getElementsByTagName('meta')["keywords"].content = "Airline Booking in USA, Online Tickets Booking USA, Airline Ticket Booking Services, Flight Reservation USA, Aeroplane Ticket Booking, Flight Ticket Rates in USA, Flight Ticket Online, Airline Ticket Prices in USA, Airfare Prices in USA, Air Flight Tickets";
-document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost Flight Tickets on Quickflightfares. Book Now to Save! Experience Fast, Easy & Secure Flight Booking on Quickflightfares. Book Now! For Booking Call @ <?=TFN?>.";
+document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost Flight Tickets on Flybookpro. Book Now to Save! Experience Fast, Easy & Secure Flight Booking on Flybookpro. Book Now! For Booking Call @ <?=TFN?>.";
 </script>
-<link rel="stylesheet" href="https://Quickflightfares/frontend/bootsrap_V5/bootstrap.min.css">
+<link rel="stylesheet" href="https://Flybookpro/frontend/bootsrap_V5/bootstrap.min.css">
 <link rel="stylesheet" href="https://www.tourcruisers.com/cdn/css/effects.min.css"> 
 <link rel="stylesheet" href="https://www.tourcruisers.com/cdn/css/lpcustom.css">
 <link rel="stylesheet" href="https://www.tourcruisers.com/cdn/css/lpca.css">
@@ -258,7 +258,7 @@ There is one more ticket class in Spirit Airlines' cabins.  Members of the Spiri
 </div><!--end here us-airlines-->
 
 <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
-<script src="https://Quickflightfares/frontend/bootsrap_V5/bootstrap.bundle.min.js"></script>
+<script src="https://Flybookpro/frontend/bootsrap_V5/bootstrap.bundle.min.js"></script>
 
 
 

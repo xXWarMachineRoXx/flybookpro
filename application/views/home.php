@@ -1,11 +1,11 @@
 <script>
-document.title = "Flight Tickets Booking, Online Tickets at Low Airfares - <?=WEBSITE?>";
-document.getElementsByTagName('meta')["keywords"].content = "Flight Reservation USA,";
+document.title = "<?=WEBSITE_NAME?> | USA's Fast & Affordable Airfares!";
+document.getElementsByTagName('meta')["keywords"].content = "Flight Reservation USA,USA's Fast & Affordable Airfares!";
 document.getElementsByTagName('meta')["description"].content =
-    "Get Our Low Cost Flight Tickets on <?=WEBSITE?>. Book Now to Save! Experience Fast, Easy & Secure Flight Booking on <?=WEBSITE?>. Book Now! For Booking Call @ <?=TFN?>.";
+    "Get Our Low Cost Flight Tickets on <?=WEBSITE_NAME?>. Book Now to Save! Experience Fast, Easy & Secure Flight Booking on <?=WEBSITE_NAME?>. Book Now! For Booking Call @ <?=TFN?>.";
 </script>
 <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"
-    style="background-image: url('frontend/images/bg.jpg'); background-position: 40%; background-size: cover;">
+    style="background-image: url('frontend/images/bg02.jpg'); background-position: 40%; background-size: cover;">
     <?php include 'includes/api-banner.php'; ?>
 </div>
 <div class="whysky mb-4">

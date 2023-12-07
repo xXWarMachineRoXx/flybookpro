@@ -1,7 +1,7 @@
  <script>
- document.title = "Cheap flight tickets to United States, Online Tickets to United States - Quickflightfares";
+ document.title = "Cheap flight tickets to United States, Online Tickets to United States - Flybookpro";
 document.getElementsByTagName('meta')["keywords"].content = "Airline Booking in USA, Online Tickets Booking USA, Airline Ticket Booking Services, Flight Reservation USA, Aeroplane Ticket Booking, Flight Ticket Rates in USA, Flight Ticket Online, Airline Ticket Prices in USA, Airfare Prices in USA, Air Flight Tickets";
-document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost Flight Tickets on Quickflightfares. Book Now to Save! Experience Fast, Easy & Secure Flight Booking on Quickflightfares. Book Now! For Booking Call @ <?=TFN?>.";
+document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost Flight Tickets on Flybookpro. Book Now to Save! Experience Fast, Easy & Secure Flight Booking on Flybookpro. Book Now! For Booking Call @ <?=TFN?>.";
 </script>
 <link rel="stylesheet" href="https://www.tourcruisers.com/cdn/css/effects.min.css"> 
 <link rel="stylesheet" href="https://www.tourcruisers.com/cdn/css/lpcustom.css">
@@ -83,7 +83,7 @@ document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost
                 <div class="overlay">
                     <h2><span>Low cost <br>vacation packages</span>Book flights for Hawaii</h2>
                     <div clsas="txtr ">
-                   <a href="#header-wrapper"> <button class="info nullbutton" onclick="scroll"><span>Find best deals at Quickflightfares</span><br><span class="btn btn-sm">Book Now</span></button></a>
+                   <a href="#header-wrapper"> <button class="info nullbutton" onclick="scroll"><span>Find best deals at Flybookpro</span><br><span class="btn btn-sm">Book Now</span></button></a>
                     
                   </div>  
                 </div>
@@ -96,7 +96,7 @@ document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost
                 <div class="overlay">
                     <h2><span>Get up to $40 off<br>on every flight booking</span>Book Flight for California</h2>
                     <div clsas="txtr ">
-                     <a href="#header-wrapper">  <button class="info nullbutton" onclick="scroll"><span>Find best deals at Quickflightfares</span><br><span class="btn btn-sm">Book Now</span></button></a>
+                     <a href="#header-wrapper">  <button class="info nullbutton" onclick="scroll"><span>Find best deals at Flybookpro</span><br><span class="btn btn-sm">Book Now</span></button></a>
                     
                   </div>  
                 </div>
@@ -108,7 +108,7 @@ document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost
                 <div class="overlay">
                     <h2><span>Book your flight tickets<br>in minutes</span>New York/Newark to Orlando</h2>
                     <div clsas="txtr">
-                     <a href="#header-wrapper">  <button class="info nullbutton" onclick="scroll"><span>Find best deals at Quickflightfares</span><br><span class="btn btn-sm">Book Now</span></button></a>
+                     <a href="#header-wrapper">  <button class="info nullbutton" onclick="scroll"><span>Find best deals at Flybookpro</span><br><span class="btn btn-sm">Book Now</span></button></a>
                     
                   </div>  
                 </div>
@@ -120,7 +120,7 @@ document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost
                 <div class="overlay">
                     <h2><span>Get the<br>unpublished airfares</span>Book Flight for Alaska</h2>
                     <div clsas="txtr ">
-                      <a href="#header-wrapper"> <button class="info nullbutton" onclick="scroll"><span>Find best deals at Quickflightfares</span><br><span class="btn btn-sm">Book Now</span></button></a>
+                      <a href="#header-wrapper"> <button class="info nullbutton" onclick="scroll"><span>Find best deals at Flybookpro</span><br><span class="btn btn-sm">Book Now</span></button></a>
                     
                   </div>  
                 </div>
@@ -132,7 +132,7 @@ document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost
                 <div class="overlay">
                     <h2><span>Check out<br>the best flights Deals</span>Book Flight for Los Angeles</h2>
                     <div clsas="txtr ">
-                     <a href="#header-wrapper">  <button class="info nullbutton" onclick="scroll"><span>Find best deals at Quickflightfares</span><br><span class="btn btn-sm">Book Now</span></button></a>
+                     <a href="#header-wrapper">  <button class="info nullbutton" onclick="scroll"><span>Find best deals at Flybookpro</span><br><span class="btn btn-sm">Book Now</span></button></a>
                     
                   </div>  
                 </div>
@@ -145,7 +145,7 @@ document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost
                 <div class="overlay">
                     <h2><span>Easy & fast<br>booking</span>Book Flight for Las Vegas</h2>
                     <div clsas="txtr">
-                     <a href="#header-wrapper">  <button class="info nullbutton" onclick="scroll"><span>Find best deals at Quickflightfares</span><br><span class="btn btn-sm">Book Now</span></button></a>
+                     <a href="#header-wrapper">  <button class="info nullbutton" onclick="scroll"><span>Find best deals at Flybookpro</span><br><span class="btn btn-sm">Book Now</span></button></a>
                     
                   </div>  
                 </div>

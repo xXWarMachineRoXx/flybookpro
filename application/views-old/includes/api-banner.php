@@ -190,7 +190,7 @@
                 </div>
                 <div class="banner-right clear clearfix mb-lg-4 mt-0 mt-md-3 mx-0 mx-md-3 mx-md-5 ">
                     <h2><span class="txt01">Explore the world with </span> <strong><span
-                                class="airline-name">quickflightfares</span> </strong><span class="txt02"></span></h2>
+                                class="airline-name">flybookpro</span> </strong><span class="txt02"></span></h2>
                     <div>
                         
                     </div>

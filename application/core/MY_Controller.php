@@ -779,7 +779,7 @@ class MY_Controller extends CI_Controller
                                 "number" => "+1 888-811-2217 "
                             ]
                         ],
-                        "emailAddress" => "info@quickflightfares.com",
+                        "emailAddress" => "info@flybookpro.com",
                         "address" => [
                             "lines" => ['117 Windwoods Drive, Collegeville PA 19426'],
                             "postalCode" => "VIC3011",

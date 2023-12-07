@@ -1,9 +1,9 @@
  <script>
- document.title = "Cheap flight tickets,  Online Tickets  - Quickflightfares";
+ document.title = "Cheap flight tickets,  Online Tickets  - Flybookpro";
 document.getElementsByTagName('meta')["keywords"].content = "Airline Booking in USA, Online Tickets Booking USA, Airline Ticket Booking Services, Flight Reservation USA, Aeroplane Ticket Booking, Flight Ticket Rates in USA, Flight Ticket Online, Airline Ticket Prices in USA, Airfare Prices in USA, Air Flight Tickets";
-document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost Flight Tickets on Quickflightfares. Book Now to Save! Experience Fast, Easy & Secure Flight Booking on Quickflightfares. Book Now! For Booking Call @ <?=TFN?>.";
+document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost Flight Tickets on Flybookpro. Book Now to Save! Experience Fast, Easy & Secure Flight Booking on Flybookpro. Book Now! For Booking Call @ <?=TFN?>.";
 </script>
-<link rel="stylesheet" href="https://Quickflightfares/frontend/bootsrap_V5/bootstrap.min.css">
+<link rel="stylesheet" href="https://Flybookpro/frontend/bootsrap_V5/bootstrap.min.css">
 <link rel="stylesheet" href="https://www.tourcruisers.com/cdn/css/effects.min.css"> 
 <link rel="stylesheet" href="https://www.tourcruisers.com/cdn/css/lpcustom.css">
 <link rel="stylesheet" href="https://www.tourcruisers.com/cdn/css/lpca.css">
@@ -83,7 +83,7 @@ document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-12 form-group">
                     <div class="flight-status">
-                        <a onclick="nav()" href="https://Quickflightfares/Result?submitForm=flights&trip=round&depart=NYC&arrival=ORL&departOn%5B%5D=2022-02-24&returnOn=2022-03-31&depart-multi%5B%5D=&arrival-multi%5B%5D=&departOn%5B%5D%5D=2022-02-03&depart-multi%5B%5D=&arrival-multi%5B%5D=&departOn%5B%5D=2022-02-05&depart-multi%5B%5D=&arrival-multi%5B%5D=&departOn%5B%5D=2022-02-09&adult=1&child=0&infant=0&cabin=ECONOMY&submit=Search+Flight">
+                        <a onclick="nav()" href="https://Flybookpro/Result?submitForm=flights&trip=round&depart=NYC&arrival=ORL&departOn%5B%5D=2022-02-24&returnOn=2022-03-31&depart-multi%5B%5D=&arrival-multi%5B%5D=&departOn%5B%5D%5D=2022-02-03&depart-multi%5B%5D=&arrival-multi%5B%5D=&departOn%5B%5D=2022-02-05&depart-multi%5B%5D=&arrival-multi%5B%5D=&departOn%5B%5D=2022-02-09&adult=1&child=0&infant=0&cabin=ECONOMY&submit=Search+Flight">
                             <div class="row align-items-center">
                                 <div class="flex-fill col-lg-3 col-3">
                                     <img src="/frontend/imgl/orlando.jpg" class="img-responsive" alt="find cheap flight for New York to Las Orlando">
@@ -116,7 +116,7 @@ document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost
 
                 <div class="col-lg-4 col-md-4 col-12 form-group ">
                     <div class="flight-status">
-                        <a onclick="nav()" href="https://Quickflightfares/Result?depart=DFW&arrival=LAS&trip=round&page=1&departOn%5B%5D=2022-02-24&returnOn=2022-03-31&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
+                        <a onclick="nav()" href="https://Flybookpro/Result?depart=DFW&arrival=LAS&trip=round&page=1&departOn%5B%5D=2022-02-24&returnOn=2022-03-31&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
                             <div class="row align-items-center">
                                 <div class="flex-fill col-lg-3 col-3">
                                     <img src="/frontend/imgl/las-vegas.jpg" class="img-responsive" alt="find cheap flight for Dallas to Las Vegas">
@@ -146,7 +146,7 @@ document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost
 
                 <div class="col-lg-4 col-md-4 col-12 form-group">
                     <div class="flight-status">
-                        <a onclick="nav()" href="https://Quickflightfares/Result?depart=LAX&arrival=OGG&trip=round&page=1&departOn%5B%5D=2022-02-24&returnOn=2022-03-31&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
+                        <a onclick="nav()" href="https://Flybookpro/Result?depart=LAX&arrival=OGG&trip=round&page=1&departOn%5B%5D=2022-02-24&returnOn=2022-03-31&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
                             <div class="row align-items-center">
                                 <div class="flex-fill col-lg-3 col-3">
                                     <img src="/frontend/imgl/kahului1.png" class="img-responsive" alt="find cheap flight for Los Angeles to Kahului">
@@ -176,7 +176,7 @@ document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost
 
                 <div class="col-lg-4 col-md-4 col-12 form-group">
                     <div class="flight-status">
-                        <a onclick="nav()" href="https://Quickflightfares/Result?depart=LAX&arrival=HNL&trip=round&page=1&departOn%5B%5D=2022-02-24&returnOn=2022-03-31&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
+                        <a onclick="nav()" href="https://Flybookpro/Result?depart=LAX&arrival=HNL&trip=round&page=1&departOn%5B%5D=2022-02-24&returnOn=2022-03-31&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
                             <div class="row align-items-center">
                                 <div class="flex-fill col-lg-3 col-3">
                                     <img src="/frontend/imgl/honolulu.png" class="img-responsive" alt="Find Cheap Los Angeles for Honolulu">
@@ -207,7 +207,7 @@ document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost
 
                 <div class="col-lg-4 col-md-4 col-12 form-group">
                     <div class="flight-status">
-                        <a onclick="nav()" href="https://Quickflightfares/Result?submitForm=flights&trip=round&depart=OAK&arrival=HNL&departOn%5B%5D=2022-02-24&returnOn=2022-03-31&depart-multi%5B%5D=&arrival-multi%5B%5D=&departOn%5B%5D%5D=2022-02-05&depart-multi%5B%5D=&arrival-multi%5B%5D=&departOn%5B%5D=2022-02-07&depart-multi%5B%5D=&arrival-multi%5B%5D=&departOn%5B%5D=2022-02-11&adult=1&child=0&infant=0&cabin=ECONOMY&submit=Search+Flight">
+                        <a onclick="nav()" href="https://Flybookpro/Result?submitForm=flights&trip=round&depart=OAK&arrival=HNL&departOn%5B%5D=2022-02-24&returnOn=2022-03-31&depart-multi%5B%5D=&arrival-multi%5B%5D=&departOn%5B%5D%5D=2022-02-05&depart-multi%5B%5D=&arrival-multi%5B%5D=&departOn%5B%5D=2022-02-07&depart-multi%5B%5D=&arrival-multi%5B%5D=&departOn%5B%5D=2022-02-11&adult=1&child=0&infant=0&cabin=ECONOMY&submit=Search+Flight">
                             <div class="row align-items-center">
                                 <div class="flex-fill col-lg-3 col-3">
                                     <img src="/frontend/imgl/honolulu4.png" class="img-responsive" alt="find cheap flight for Oakland to Honolulu">
@@ -239,7 +239,7 @@ document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost
 
                 <div class="col-lg-4 col-md-4 col-12 form-group">
                     <div class="flight-status">
-                        <a onclick="nav()" href="https://Quickflightfares/Result?depart=NYC&arrival=ATL&trip=round&page=1&departOn%5B%5D=2022-02-24&returnOn=2022-03-31&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
+                        <a onclick="nav()" href="https://Flybookpro/Result?depart=NYC&arrival=ATL&trip=round&page=1&departOn%5B%5D=2022-02-24&returnOn=2022-03-31&adult=1&child=0&infant=0&cabin=ECONOMY&airline=">
                             <div class="row align-items-center">
                                 <div class="flex-fill col-lg-3 col-3">
                                     <img src="/frontend/imgl/atlanta.jpg" class="img-responsive" alt="find cheap flight for New York/Newark to Atlanta">
@@ -404,7 +404,7 @@ Alaska Airlines is a popular airline among passengers. At the heart of this, Ala
 </div><!--end here us-airlines-->
 
 <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
-<script src="https://Quickflightfares/frontend/bootsrap_V5/bootstrap.bundle.min.js"></script>
+<script src="https://Flybookpro/frontend/bootsrap_V5/bootstrap.bundle.min.js"></script>
 
 
 

@@ -1,7 +1,7 @@
 <script>
 document.title = "Book Cheap Flight Ticket on Flair Airlines  - GoForTaxis";       
 document.getElementsByTagName('meta')["keywords"].content = "";       
-document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Quickflightfares. Get the best fairs With US - call us @ <?=TFN?>";   
+document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Flybookpro. Get the best fairs With US - call us @ <?=TFN?>";   
 </script>
 <link rel="stylesheet" href="https://www.gofortaxis.com/frontend/bootsrap_V5/bootstrap.min.css">
 

@@ -213,7 +213,7 @@ document.getElementsByTagName('meta')["description"].content = "Find cheap fligh
             <div class="headh3 txt-ff">Cheap Flight Tickets Booking- Grab the Best Flight Deals</div>
          </div>
          <h3>Discounted Flight Tickets</h3>
-        <p>At Quickflightfares, we deliver you with the best online platform to book flights at the best prices. Use our easy-to understand interface, look-up your favourite destinations and book your reservation at your ease.</p>
+        <p>At Flybookpro, we deliver you with the best online platform to book flights at the best prices. Use our easy-to understand interface, look-up your favourite destinations and book your reservation at your ease.</p>
 
 
 <h3>Why do Airline prices fluctuate from day to day?</h3>
@@ -221,8 +221,8 @@ document.getElementsByTagName('meta')["description"].content = "Find cheap fligh
 <p>Factors such as customer booking patterns, competitor prices, even weather and popular events can impact the product demand and require adjusting the prices.
 </p>
 <h3>Why Air Fare Moss?</h3>
-<p>Many benefits besides convenience, choices and price comparison provided by Quickflightfares are 24x7 customer service and ease of accessiblity. Allowing travelers to book travel services anytime, anywhere, without being bound by business hours or time zones.</p>
-<p>Quickflightfares aggregates information from multiple travel consolidators and service providers, allowing travelers to compare prices, promotions, and discounts in real-time. </p>
+<p>Many benefits besides convenience, choices and price comparison provided by Flybookpro are 24x7 customer service and ease of accessiblity. Allowing travelers to book travel services anytime, anywhere, without being bound by business hours or time zones.</p>
+<p>Flybookpro aggregates information from multiple travel consolidators and service providers, allowing travelers to compare prices, promotions, and discounts in real-time. </p>
 <strong>This enables travelers to find the best deals and save money on flights, hotels, and other travel services, making travel more affordable and accessible.</strong>
       </div>
    </div>

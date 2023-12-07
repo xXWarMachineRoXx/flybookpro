@@ -5,9 +5,9 @@ define('Airline', 'Lufthansa Airlines');
 
 ?>
 <script>
-   document.title = "Book Cheap Flight Ticket on <?= Airline ?> | Get Cheap Flight Deal <?= Airline ?> - Quickflightfares";
+   document.title = "Book Cheap Flight Ticket on <?= Airline ?> | Get Cheap Flight Deal <?= Airline ?> - Flybookpro";
    document.getElementsByTagName('meta')["keywords"].content = "<?= Airline ?>, <?= Airline ?> , <?= Airline ?> Flights, <?= Airline ?> Reservations, <?= Airline ?> Booking, <?= Airline ?> Flight Deals, <?= Airline ?> Flight Tickets, <?= Airline ?> Flight Reservations, <?= Airline ?> Flight Booking, <?= Airline ?> Flight Deals, <?= Airline ?> Flight Tickets, <?= Airline ?> Flight Reservations, <?= Airline ?> Flight Booking, <?= Airline ?> Flight Deals, <?= Airline ?> Flight Tickets, <?= Airline ?> Flight Reservations, <?= Airline ?> Flight Booking, <?= Airline ?> Flight Deals, <?= Airline ?> Flight Tickets, <?= Airline ?> Flight Reservations, <?= Airline ?> Flight Booking, <?= Airline ?> Flight Deals, <?= Airline ?> Flight Tickets, <?= Airline ?> Flight Reservations, <?= Airline ?> Flight Booking, <?= Airline ?> Flight Deals, <?= Airline ?> Flight Tickets, <?= Airline ?> Flight Reservations, <?= Airline ?> Flight Booking"; ";       
-   document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Quickflightfares. Get the best fairs With US - call us @ <?=TFN?>";   
+   document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Flybookpro. Get the best fairs With US - call us @ <?=TFN?>";   
 </script>
 <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"
    style="background-image: url('frontend/images/lufthansa-airlines.jpg'); background-position: center;background-no-repeat: no-repeat; background-size: cover;">
@@ -180,7 +180,7 @@ define('Airline', 'Lufthansa Airlines');
             <?= Airline ?>
          </div>
       </div>
-      <p>Enjoy cheap flight deals to your destination without compromising on services by booking tickets with Quickflightfares. We present numerous deals on various world’s renowned airlines. At Quickflightfares, we secure the best deals on Lufthansa Airlines.
+      <p>Enjoy cheap flight deals to your destination without compromising on services by booking tickets with Flybookpro. We present numerous deals on various world’s renowned airlines. At Flybookpro, we secure the best deals on Lufthansa Airlines.
       </p>
       <h3>About</h3>
       <p>Lufthansa is the flag carrier airline of Germany and a member of the Star Alliance. It is the second-largest airline in Europe in terms of passengers carried, after Ryanair. Lufthansa operates a fleet of over 700 aircraft to over 200 destinations in Europe, Asia, Africa, North America, and South America.
@@ -198,17 +198,17 @@ define('Airline', 'Lufthansa Airlines');
   <li>Value for money: Lufthansa offers a good value for money. Its fares are competitive, and it offers a variety of fare options to suit different budgets.</li>
 </ul>
 <p>Overall, Lufthansa is a highly rated airline that offers a safe, comfortable, and affordable flying experience.</p>
-<p>Fly to any corner of the world including New York, San Francisco, and Chicago. Connect to Quickflightfares to book flights to the United States or any other Lufthansa Airlines International flight routes. You can connect us at +1 888-811-2217.</p>
+<p>Fly to any corner of the world including New York, San Francisco, and Chicago. Connect to Flybookpro to book flights to the United States or any other Lufthansa Airlines International flight routes. You can connect us at +1 888-811-2217.</p>
       <div class="all-content">
          <h3>Booking Method</h3>
-         <p>To book a low-cost flight, passengers must go to the Quickflightfares website. Online flight booking saves money
+         <p>To book a low-cost flight, passengers must go to the Flybookpro website. Online flight booking saves money
             since it may be done without paying a service fee. Nobody needs to travel to the airport to reserve a seat.
             The most convenient option is to book your <strong>affordable flight tickets online</strong>, but you may
-            also arrange your trip by phoning our reservation number. CFly to any corner of the world including New York, San Francisco, and Chicago. Connect to Quickflightfares to book flights to the United States or any other Air France International flight routes. You can connect us at +1 888-811-2217.
+            also arrange your trip by phoning our reservation number. CFly to any corner of the world including New York, San Francisco, and Chicago. Connect to Flybookpro to book flights to the United States or any other Air France International flight routes. You can connect us at +1 888-811-2217.
 
          </p>
-         <h3>What distinguishes Quickflightfares as a rare star?</h3>
-         <p>Quickflightfares may provide you with happiness and smiles at the lowest cost. There are several inexpensive
+         <h3>What distinguishes Flybookpro as a rare star?</h3>
+         <p>Flybookpro may provide you with happiness and smiles at the lowest cost. There are several inexpensive
             airlines offers available, and you do not need to look hard for them. Booking in advance will help you save
             money on plane tickets, as last-minute purchases may incur expensive surcharges. If you are planning a
             family vacation, be sure to let the travel agent know in advance so they can provide you with better

@@ -25,7 +25,7 @@
       <div class="col-md-3 col-12 d-none">
 <div class="ftr-sl inlst">
 <h4>Top Airlines</h4>
-<img onclick="window.location.href='<?= base_url() ?>'" src="<?= base_url() ?>frontend/images/logo.png" alt="Quickflightfares logo"/>
+<img onclick="window.location.href='<?= base_url() ?>'" src="<?= base_url() ?>frontend/images/logo.png" alt="Flybookpro logo"/>
 </div>
 
 </div>
@@ -135,7 +135,7 @@
 </div> <!-- end here footer -->
 <div class="bottom-md-footer text-center py-1">
 <div class="container">
- <p>Quickflightfares its registered office located at Address:117 Windwoods Drive, Collegeville PA 19426, in the state of Pennsylvania (USA).  We are available to provide customer support on all days from Monday to Sunday. Customer Service Number: <?=TFN?> | Email: <?= EMAIL ?> © Copyrights 2023. <?= WEBSITE ?>.</p>      
+ <p>Flybookpro its registered office located at Address:117 Windwoods Drive, Collegeville PA 19426, in the state of Pennsylvania (USA).  We are available to provide customer support on all days from Monday to Sunday. Customer Service Number: <?=TFN?> | Email: <?= EMAIL ?> © Copyrights 2023. <?= WEBSITE ?>.</p>      
 <ul class="card-option d-flex justify-content-center align-items-center m-0 p-0">
     <li>We Accept All:</li>
 			<li><img src="<?= base_url() ?>frontend/images/visa-card.png" alt="visa card payment options"></li>

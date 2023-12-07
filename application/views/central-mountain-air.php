@@ -4,9 +4,9 @@ define('Airline', 'Central Mountain Air');
 
 ?>
 <script>
-document.title = "Book Cheap Flight Ticket on <?= Airline?> | Get Cheap Flight Deal <?=Airline?> - Quickflightfares";       
+document.title = "Book Cheap Flight Ticket on <?= Airline?> | Get Cheap Flight Deal <?=Airline?> - Flybookpro";       
 document.getElementsByTagName('meta')["keywords"].content = "<?=Airline?>, <?=Airline?> , <?=Airline?> Flights, <?=Airline?> Reservations, <?=Airline?> Booking, <?=Airline?> Flight Deals, <?=Airline?> Flight Tickets, <?=Airline?> Flight Reservations, <?=Airline?> Flight Booking, <?=Airline?> Flight Deals, <?=Airline?> Flight Tickets, <?=Airline?> Flight Reservations, <?=Airline?> Flight Booking, <?=Airline?> Flight Deals, <?=Airline?> Flight Tickets, <?=Airline?> Flight Reservations, <?=Airline?> Flight Booking, <?=Airline?> Flight Deals, <?=Airline?> Flight Tickets, <?=Airline?> Flight Reservations, <?=Airline?> Flight Booking, <?=Airline?> Flight Deals, <?=Airline?> Flight Tickets, <?=Airline?> Flight Reservations, <?=Airline?> Flight Booking, <?=Airline?> Flight Deals, <?=Airline?> Flight Tickets, <?=Airline?> Flight Reservations, <?=Airline?> Flight Booking";";       
-document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Quickflightfares. Get the best fairs With US - call us @ <?=TFN?>";   
+document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Flybookpro. Get the best fairs With US - call us @ <?=TFN?>";   
 </script>
    <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"  style="background-image: url('frontend/images/central-mountain-air.jpg'); background-no-repeat: no-repeat; background-size: cover;">
  <?php include 'includes/api-banner.php'; ?>  
@@ -159,7 +159,7 @@ document.getElementsByTagName('meta')["description"].content = "Find cheap fligh
        <p>Established in 1987, Central Mountain Air (CMA) is a western Canadian privately owned and operated company. CMA offers scheduled and charter flights across a unique network connecting communities throughout British Columbia and Alberta and operates a fleet of Beechcraft 1900Ds, Dornier 328s and De Havilland Dash 8 aircraft.
 </p>
 <h3>About</h3>
-<p>Central Mountain Air’s agreement with our interline partners – Air Canada and WestJet – allows passengers to take advantage of seamless travel through hub airports, offering through baggage and boarding passes to their final destination. For complete interline availability options from your community, or to book an interline ticket, passengers can contact Quickflightfares.</p>
+<p>Central Mountain Air’s agreement with our interline partners – Air Canada and WestJet – allows passengers to take advantage of seamless travel through hub airports, offering through baggage and boarding passes to their final destination. For complete interline availability options from your community, or to book an interline ticket, passengers can contact Flybookpro.</p>
 <p>If you are looking for a regional airline that offers friendly service and convenient connections, Central Mountain Air is a great option. The airline's network covers a wide area of western Canada, making it a good choice for travellers who need to get to smaller destinations</p>
 
 <h3>Destinations</h3>
@@ -167,9 +167,9 @@ document.getElementsByTagName('meta')["description"].content = "Find cheap fligh
 
 <div class="all-content">
 <h3>Booking Method</h3>
-<p>To book a low-cost flight, passengers must go to the Quickflightfares website. Online flight booking saves money since it may be done without paying a service fee. Nobody needs to travel to the airport to reserve a seat. The most convenient option is to book your <strong>affordable flight tickets online</strong>, but you may also arrange your trip by phoning our reservation number. Call us at <?=TFN?> to book your flight. To take advantage of the new <strong>low-cost airfare</strong> with all-inclusive facilities, please contact us.&nbsp;</p>
-<h3>What distinguishes Quickflightfares as a rare star?</h3>
-<p>Quickflightfares may provide you with happiness and smiles at the lowest cost. There are several inexpensive airlines offers available, and you do not need to look hard for them. Booking in advance will help you save money on plane tickets, as last-minute purchases may incur expensive surcharges. If you are planning a family vacation, be sure to let the travel agent know in advance so they can provide you with better bargains that will give you a lovely trip with cost-saving values. Be with us and enjoy a hassle-free <strong>affordable flight journey</strong>.</p>
+<p>To book a low-cost flight, passengers must go to the Flybookpro website. Online flight booking saves money since it may be done without paying a service fee. Nobody needs to travel to the airport to reserve a seat. The most convenient option is to book your <strong>affordable flight tickets online</strong>, but you may also arrange your trip by phoning our reservation number. Call us at <?=TFN?> to book your flight. To take advantage of the new <strong>low-cost airfare</strong> with all-inclusive facilities, please contact us.&nbsp;</p>
+<h3>What distinguishes Flybookpro as a rare star?</h3>
+<p>Flybookpro may provide you with happiness and smiles at the lowest cost. There are several inexpensive airlines offers available, and you do not need to look hard for them. Booking in advance will help you save money on plane tickets, as last-minute purchases may incur expensive surcharges. If you are planning a family vacation, be sure to let the travel agent know in advance so they can provide you with better bargains that will give you a lovely trip with cost-saving values. Be with us and enjoy a hassle-free <strong>affordable flight journey</strong>.</p>
          </div>
          <a class="readmore stmpbtn" href="#">Read more...</a>	      
       </div>

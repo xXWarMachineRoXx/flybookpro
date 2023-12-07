@@ -1,7 +1,7 @@
  <script>
-document.title = "Cheap Flight to California, Book Cheap Flight to California - Quickflightfares";
+document.title = "Cheap Flight to California, Book Cheap Flight to California - Flybookpro";
  document.getElementsByTagName('meta')["keywords"].content = "Cheap flight to California, International Flight Booking in California, Online Air Ticket Booking services in California, Airline Booking in California, Online Tickets Booking California, Airline Ticket Booking Services California, Flight Reservation Services in California, Aeroplane Ticket Booking in California, Flight Ticket Rates in California, Flight Ticket California, Airline Ticket Prices in California, Airfare Prices in California, Air Flight Tickets California, Low Fare Flights in California, Cheap Flight Ticket Booking in California";
- document.getElementsByTagName('meta')["description"].content = "Find cheap flight to California with Quickflightfares. You get the best fairs. With us you don’t have to worry about prices as we offer the best prices. For booking call us @ (855) 776-8168 or Mail us - info@tourcruiser.com";
+ document.getElementsByTagName('meta')["description"].content = "Find cheap flight to California with Flybookpro. You get the best fairs. With us you don’t have to worry about prices as we offer the best prices. For booking call us @ (855) 776-8168 or Mail us - info@tourcruiser.com";
 </script>
 <div id="header-wrapper" class="header-slider fth ftc">
    <header class="clearfix">
@@ -281,8 +281,8 @@ document.title = "Cheap Flight to California, Book Cheap Flight to California - 
    <div class="clearfix mt-5"></div>
    <p><strong>California </strong></p>
    <p>Famous for the <b>Golden Gate Bridge, Disneyland, and Hollywood </b> California is one of the most popular destinations in America. You can book a cheap flight to California with TomCruiser and make your experience even better. 
-   <p><strong>Find cheap flight to California with Quickflightfares </strong></p>
-   <p>At Quickflightfares, you get the best fairs. With us you don’t have to worry about prices as we offer the best prices. 
+   <p><strong>Find cheap flight to California with Flybookpro </strong></p>
+   <p>At Flybookpro, you get the best fairs. With us you don’t have to worry about prices as we offer the best prices. 
 Not only we provide you the best price but also give you tips on how you can save more on your travels. Read below to find out the best ways to travel </p>
 
          <p class="mt-3"><strong>Tips on getting best deals on your flight:</strong></p>

@@ -5,12 +5,12 @@ define('Airline', 'Philippine Airlines');
 
 ?>
 <script>
-   document.title = "Book Cheap Flight Ticket on <?= Airline ?> | Get Cheap Flight Deal <?= Airline ?> - Quickflightfares";
+   document.title = "Book Cheap Flight Ticket on <?= Airline ?> | Get Cheap Flight Deal <?= Airline ?> - Flybookpro";
    document.getElementsByTagName('meta')["keywords"].content = "<?= Airline ?>, <?= Airline ?> , <?= Airline ?> Flights, <?= Airline ?> Reservations, <?= Airline ?> Booking, <?= Airline ?> Flight Deals, <?= Airline ?> Flight Tickets, <?= Airline ?> Flight Reservations, <?= Airline ?> Flight Booking, <?= Airline ?> Flight Deals, <?= Airline ?> Flight Tickets, <?= Airline ?> Flight Reservations, <?= Airline ?> Flight Booking, <?= Airline ?> Flight Deals, <?= Airline ?> Flight Tickets, <?= Airline ?> Flight Reservations, <?= Airline ?> Flight Booking, <?= Airline ?> Flight Deals, <?= Airline ?> Flight Tickets, <?= Airline ?> Flight Reservations, <?= Airline ?> Flight Booking, <?= Airline ?> Flight Deals, <?= Airline ?> Flight Tickets, <?= Airline ?> Flight Reservations, <?= Airline ?> Flight Booking, <?= Airline ?> Flight Deals, <?= Airline ?> Flight Tickets, <?= Airline ?> Flight Reservations, <?= Airline ?> Flight Booking"; ";       
-   document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Quickflightfares. Get the best fairs With US - call us @ <?=TFN?>";   
+   document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Flybookpro. Get the best fairs With US - call us @ <?=TFN?>";   
 </script>
 <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"
-   style="background-image: url('/Quickflightfares/frontend/images/phillipines-airlines.jpg'); background-postion: 5px; background-size: cover;">
+   style="background-image: url('/Flybookpro/frontend/images/phillipines-airlines.jpg'); background-postion: 5px; background-size: cover;">
    <?php include 'includes/api-banner.php'; ?>
 </div>
 <div class="whysky mb-4 mb-md-5">
@@ -180,7 +180,7 @@ define('Airline', 'Philippine Airlines');
             <?= Airline ?>
          </div>
       </div>
-      <p>Enjoy cheap flight deals to your destination without compromising on services by booking tickets with Quickflightfares. We present numerous deals on various world’s renowned airlines. At Quickflightfares, we secure the best deals on Philippine Airlines.
+      <p>Enjoy cheap flight deals to your destination without compromising on services by booking tickets with Flybookpro. We present numerous deals on various world’s renowned airlines. At Flybookpro, we secure the best deals on Philippine Airlines.
       </p>
       <h3>About</h3>
       <p>Philippine Airlines is the flag carrier airline of the Philippines. It is headquartered in Manila and operates scheduled and charter flights to over 40 destinations in Asia, North America, and Europe. Philippine Airlines is a member of the Star Alliance.</p>
@@ -193,19 +193,19 @@ define('Airline', 'Philippine Airlines');
   <li>Philippine Airlines' major destinations in the United States include Los Angeles, New York, San Francisco, Honolulu, and Guam.</li>
   <li>Philippine Airlines is a member of the Star Alliance, which also includes Lufthansa, United Airlines, Air Canada, and Swiss International Air Lines.</li>
 </ul>
-<h3>Book your Philippine Airlines flight to the United States with Quickflightfares</h3>
-<p>Quickflightfares is a travel agency that specializes in cheap and easy call only booking. We can help you book your Philippine Airlines flight to the United States at the best possible price. We also offer a variety of other travel services, such as hotel reservations, car rentals, and travel insurance.
-To book your Philippine Airlines flight to the United States with Quickflightfares, simply call us at 1-888-811-2217. We'll be happy to help you find the perfect flight for your needs.</p>
+<h3>Book your Philippine Airlines flight to the United States with Flybookpro</h3>
+<p>Flybookpro is a travel agency that specializes in cheap and easy call only booking. We can help you book your Philippine Airlines flight to the United States at the best possible price. We also offer a variety of other travel services, such as hotel reservations, car rentals, and travel insurance.
+To book your Philippine Airlines flight to the United States with Flybookpro, simply call us at 1-888-811-2217. We'll be happy to help you find the perfect flight for your needs.</p>
       <div class="all-content">
          <h3>Booking Method</h3>
-         <p>To book a low-cost flight, passengers must go to the Quickflightfares website. Online flight booking saves money
+         <p>To book a low-cost flight, passengers must go to the Flybookpro website. Online flight booking saves money
             since it may be done without paying a service fee. Nobody needs to travel to the airport to reserve a seat.
             The most convenient option is to book your <strong>affordable flight tickets online</strong>, but you may
-            also arrange your trip by phoning our reservation number. CFly to any corner of the world including New York, San Francisco, and Chicago. Connect to Quickflightfares to book flights to the United States or any other Air France International flight routes. You can connect us at +1 888-811-2217.
+            also arrange your trip by phoning our reservation number. CFly to any corner of the world including New York, San Francisco, and Chicago. Connect to Flybookpro to book flights to the United States or any other Air France International flight routes. You can connect us at +1 888-811-2217.
 
          </p>
-         <h3>What distinguishes Quickflightfares as a rare star?</h3>
-         <p>Quickflightfares may provide you with happiness and smiles at the lowest cost. There are several inexpensive
+         <h3>What distinguishes Flybookpro as a rare star?</h3>
+         <p>Flybookpro may provide you with happiness and smiles at the lowest cost. There are several inexpensive
             airlines offers available, and you do not need to look hard for them. Booking in advance will help you save
             money on plane tickets, as last-minute purchases may incur expensive surcharges. If you are planning a
             family vacation, be sure to let the travel agent know in advance so they can provide you with better

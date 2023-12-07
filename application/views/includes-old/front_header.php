@@ -1,11 +1,11 @@
 <!DOCTYPE HTML><html lang="en">
     <head>
     <meta charset="utf-8">
-<title>Online cheap flights ticket booking - Quickflightfares</title>
+<title>Online cheap flights ticket booking - Flybookpro</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="keywords" content="Online cheap flights ticket booking Online flights ticket booking, Cheap flights ticket booking, flights ticket booking, flights booking, Online cheap flights, Cheap flights tickets, Online flights booking" />
-<meta name="description" content="Online Cheap Flights Ticket Booking. Lowest Fares & Best Travel Deals.24/7 Hours Travel Experts Support. Book Now at Quickflightfares. For booking information call us @<?=TFN?> Or Mail us - <?= MAIL ?>">
-<link rel=“canonical” href=“https://Quickflightfares” />
+<meta name="description" content="Online Cheap Flights Ticket Booking. Lowest Fares & Best Travel Deals.24/7 Hours Travel Experts Support. Book Now at Flybookpro. For booking information call us @<?=TFN?> Or Mail us - <?= MAIL ?>">
+<link rel=“canonical” href=“https://Flybookpro” />
 <!--      <link href="<?= base_url() ?>frontend/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>-->
 <link rel="stylesheet" href="<?= base_url() ?>frontend/bootsrap_V5/bootstrap.min.css">
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -56,7 +56,7 @@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="ti-align-left"></span>
                 </button>
-                <a class="navbar-brand" href="#"><img onclick="window.location.href='<?= base_url() ?>'" src="<?= base_url() ?>frontend/images/logo.png" alt="Quickflightfares logo"/></a>
+                <a class="navbar-brand" href="#"><img onclick="window.location.href='<?= base_url() ?>'" src="<?= base_url() ?>frontend/images/logo.png" alt="Flybookpro logo"/></a>
                 <div class="callnow">
                 <a class="d-flex" href="tel:<?=TFN?>">
                     <i class="fa fa-phone ffp" aria-hidden="true"></i>

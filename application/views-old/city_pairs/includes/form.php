@@ -17,7 +17,7 @@
 
                   <input type="hidden" name="submitForm" value="flights" />
 
-                  <h3>Book flight ticket with Quickflightfares at the best prices</h3>
+                  <h3>Book flight ticket with Flybookpro at the best prices</h3>
                   <div class="element-radio d-flex">
                       <div class="column activebutton">
                           <input type="radio" name="trip" value="round" id="phone_yes" checked />

@@ -3,13 +3,13 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Online cheap flights ticket booking - quickflightfares</title>
+    <title>Online cheap flights ticket booking - flybookpro</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords"
         content="Online cheap flights ticket booking Online flights ticket booking, Cheap flights ticket booking, flights ticket booking, flights booking, Online cheap flights, Cheap flights tickets, Online flights booking" />
     <meta name="description"
-        content="Online Cheap Flights Ticket Booking. Lowest Fares & Best Travel Deals.24/7 Hours Travel Experts Support. Book Now at quickflightfares. For booking information call us @<?= TFN ?> Or Mail us - <?= MAIL ?>">
-    <link rel=“canonical” href=“https://www.quickflightfares.com” />
+        content="Online Cheap Flights Ticket Booking. Lowest Fares & Best Travel Deals.24/7 Hours Travel Experts Support. Book Now at flybookpro. For booking information call us @<?= TFN ?> Or Mail us - <?= MAIL ?>">
+    <link rel=“canonical” href=“https://www.flybookpro.com” />
     <link rel="stylesheet" href="<?= base_url() ?>frontend/bootsrap_V5/bootstrap.min.css">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="<?= base_url() ?>frontend/css/style.css" rel="stylesheet">
@@ -45,7 +45,7 @@
                 </button>
                 <a class="navbar-brand" href="#"><img class='branding-logo-fit'
                         onclick="window.location.href='<?= base_url() ?>'"
-                        src="<?= base_url() ?>frontend/images/logo.png" alt="quickflightfares logo" /></a>
+                        src="<?= base_url() ?>frontend/images/logo.png" alt="flybookpro logo" /></a>
                 <div class="callnow">
                     <a class="d-flex" href="tel:<?= TFN ?>">
                         <i class="fa fa-phone ffp" aria-hidden="true"></i>

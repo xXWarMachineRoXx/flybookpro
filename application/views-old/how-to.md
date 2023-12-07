@@ -26,7 +26,7 @@ normaly its there place you do stuff
 - COnrtoler is the way you route views to actual urls 
 
 
-- like localhost/airfarefoss.com is actually the file in quickflightfares/application/views/index.php
+- like localhost/airfarefoss.com is actually the file in flybookpro/application/views/index.php
 
 
 

@@ -27,7 +27,7 @@
                     <div class="ftr-sl inlst">
                         <h4>Top Airlines</h4>
                         <img onclick="window.location.href='<?= base_url() ?>'"
-                            src="<?= base_url() ?>frontend/images/logo.png" alt="quickflightfares logo" />
+                            src="<?= base_url() ?>frontend/images/logo.png" alt="flybookpro logo" />
                     </div>
 
                 </div>

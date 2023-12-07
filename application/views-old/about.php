@@ -19,13 +19,13 @@
   <div class="row">
   <div class="col-12 col-md-6">
 	<h3 class="headh3">About Us</h3>
-<p>One of the companies with the fastest growth, quickflightfares has the focused goal of assisting the travelers everywhere with hassle free ticket booking at pocket friendly prices. </p>
+<p>One of the companies with the fastest growth, flybookpro has the focused goal of assisting the travelers everywhere with hassle free ticket booking at pocket friendly prices. </p>
 <p>Through the use of cutting-edge technology and the experienced travel experts, we consistently strive to make the travel search process as simple as possible.</p>
 <p>Travelers may reserve everything they require for the ideal holiday thanks to the company's thousands of airline, hotel, and auto rental partners throughout the world. 
 With us, you can be sure that you are getting the finest flight fares at your comfort level and that your reservation will be simple. 
 </p>
-<p>Through innovative technology and the efforts of our top travel industry specialists, who enable us to reach each client in a shorter amount of time, quickflightfares has acquired the trust of its users. In 
-quickflightfares’s unique hybrid business model bridges the gap between an online travel agency and a traditional travel agency by providing a convenient online booking capability as well as a 24/7 personalized trip booking experience arranged by hundreds of trained and certified travel agents.
+<p>Through innovative technology and the efforts of our top travel industry specialists, who enable us to reach each client in a shorter amount of time, flybookpro has acquired the trust of its users. In 
+flybookpro’s unique hybrid business model bridges the gap between an online travel agency and a traditional travel agency by providing a convenient online booking capability as well as a 24/7 personalized trip booking experience arranged by hundreds of trained and certified travel agents.
 </p>	
 <p>Travelers around the world can find and book their perfect trip on our websites and by calling one of our hundreds of trained and certified travel agents.</p>	
 	
@@ -39,8 +39,8 @@ quickflightfares’s unique hybrid business model bridges the gap between an onl
     <div class="row">
   <div class="col-12">
 <h3 class="headh3">Booking Cheap Flights Online: </h3>
- <p>With reservations arranged with quickflightfares, you can take a low-cost family holiday, group excursion, work trip, or a souful solo trip.  Although the online booking process is quick and simple, you can contact the customer care staff to book your preferred seat over the phone.
-Your quest for the best flight services under your price range comes to an end at quickflightfares. 
+ <p>With reservations arranged with flybookpro, you can take a low-cost family holiday, group excursion, work trip, or a souful solo trip.  Although the online booking process is quick and simple, you can contact the customer care staff to book your preferred seat over the phone.
+Your quest for the best flight services under your price range comes to an end at flybookpro. 
 </p>
  </div>
     

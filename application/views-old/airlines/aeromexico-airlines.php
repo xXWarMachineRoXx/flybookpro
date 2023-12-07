@@ -5,9 +5,9 @@ define('FROM_LOCATION', 'Mexico City');
 define('FROM_LOCATION_CODE', 'MEX');
 ?>
 <script>
-   document.title = "Book Cheap Flight Ticket on <?= Airline ?> | Get Cheap Flight Deal <?= Airline ?> - Quickflightfares";
+   document.title = "Book Cheap Flight Ticket on <?= Airline ?> | Get Cheap Flight Deal <?= Airline ?> - Flybookpro";
    document.getElementsByTagName('meta')["keywords"].content = "<?= Airline ?>, <?= Airline ?> , <?= Airline ?> Flights, <?= Airline ?> Reservations, <?= Airline ?> Booking, <?= Airline ?> Flight Deals, <?= Airline ?> Flight Tickets, <?= Airline ?> Flight Reservations, <?= Airline ?> Flight Booking, <?= Airline ?> Flight Deals, <?= Airline ?> Flight Tickets, <?= Airline ?> Flight Reservations, <?= Airline ?> Flight Booking, <?= Airline ?> Flight Deals, <?= Airline ?> Flight Tickets, <?= Airline ?> Flight Reservations, <?= Airline ?> Flight Booking, <?= Airline ?> Flight Deals, <?= Airline ?> Flight Tickets, <?= Airline ?> Flight Reservations, <?= Airline ?> Flight Booking, <?= Airline ?> Flight Deals, <?= Airline ?> Flight Tickets, <?= Airline ?> Flight Reservations, <?= Airline ?> Flight Booking, <?= Airline ?> Flight Deals, <?= Airline ?> Flight Tickets, <?= Airline ?> Flight Reservations, <?= Airline ?> Flight Booking"; ";       
-   document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Quickflightfares. Get the best fairs With US - call us @ <a href='tel:<?=TFN?>";'><?=TFN?></a>    
+   document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Flybookpro. Get the best fairs With US - call us @ <a href='tel:<?=TFN?>";'><?=TFN?></a>    
 </script>
 <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"
    style="background-image: url('frontend/images/aeromexico.jpg'); background-postion: 5px; background-size: cover;">
@@ -184,7 +184,7 @@ define('FROM_LOCATION_CODE', 'MEX');
          <div class="headh3 txt-ff">Aeromexico Airlines </div>
       </div>
       <p>Experience exceptional offers with Aeromexico, catering to a diverse
-         range of preferences. At Quickflightfares, we extend an exclusive key to a realm of
+         range of preferences. At Flybookpro, we extend an exclusive key to a realm of
          confidential,phone-only deals. Our commitment ensures your desired outcomes while
          staying within your budget. Join us, a prominent travel company in the United States,
          and unlock unparalleled deals for both Aeromexico's international and domestic
@@ -199,7 +199,7 @@ define('FROM_LOCATION_CODE', 'MEX');
       <p>The airline uses Monterrey International Airport as its operational base and is offering services in two
          cabins; Main Cabin and Premier Class Cabin. It allows the opportunity for passengers to choose their service
          according to their preferences.</p>
-      <p>In case you wish to secure a preferred seat at <strong>affordable bargains</strong>, the Quickflightfares
+      <p>In case you wish to secure a preferred seat at <strong>affordable bargains</strong>, the Flybookpro
          reservation team is the soundest explanation for you. Reach us at <strong>
             <a href='tel:<?=TFN?>'><?=TFN?></a> 
          </strong> and gain
@@ -209,7 +209,7 @@ define('FROM_LOCATION_CODE', 'MEX');
       <p>Aeromexico serves its <strong>cheap flight journeys</strong> to over 87 locations including multiple cities
          in South America, Asia, North America, Europe, Central America, and multiple others. On some occasions, the
          airline promotes many seasonal flights to various destinations. You can have a gaze at them by contacting
-         the Quickflightfares team. Reach us at
+         the Flybookpro team. Reach us at
          <a href='tel:<?=TFN?>'><?=TFN?></a>  and enjoy <strong>affordable flight deals</strong> to your
          requested destinations. Get <strong>cheap flight tickets</strong> with minimal compromises with us. We will
          provide you with the opportunity to seize incredible undisclosed deals which help you enjoy the breeze of

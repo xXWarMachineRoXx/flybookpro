@@ -1,7 +1,7 @@
 <script>
-document.title = "Book Cheap Flight Ticket on Norse Airlines | Get Cheap Flight Deal Norse Airlines - Quickflightfares";       
+document.title = "Book Cheap Flight Ticket on Norse Airlines | Get Cheap Flight Deal Norse Airlines - Flybookpro";       
 document.getElementsByTagName('meta')["keywords"].content = "";       
-document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Quickflightfares. Get the best fairs With US - call us @ <?=TFN?>";   
+document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Flybookpro. Get the best fairs With US - call us @ <?=TFN?>";   
 </script>
 <!-- <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"  style="background-image: url('frontend/images/Norse-Airlines.png'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;"> -->
 <div id="header-wrapper" class="wrap-inpg py-4 py-md-5 image " style="background-image: url('frontend/images/Norse-Airlines.png'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;">
@@ -152,7 +152,7 @@ document.getElementsByTagName('meta')["description"].content = "Find cheap fligh
          <div class="headingtxt hdadjt">
             <div class="headh3 txt-ff">Norse Airlines</div>
          </div>
-       <p>You may book inexpensive tickets on Norse Airlines, one of the most affordable carriers, with Quickflightfares. So that you may take a comfortable flight without blowing your holiday budget, we can provide you access to exclusive deals. Be with our travel expert, get <strong>inexpensive flight tickets</strong>, and put an end to your frustration. You may benefit from our year-round accessibility and our special rates for solo, family, group, and business travel. Travel the world on a budget with a Quickflightfares flying package. However, online airline booking implies that the rate does not include any additional operational costs or surcharges.</p>
+       <p>You may book inexpensive tickets on Norse Airlines, one of the most affordable carriers, with Flybookpro. So that you may take a comfortable flight without blowing your holiday budget, we can provide you access to exclusive deals. Be with our travel expert, get <strong>inexpensive flight tickets</strong>, and put an end to your frustration. You may benefit from our year-round accessibility and our special rates for solo, family, group, and business travel. Travel the world on a budget with a Flybookpro flying package. However, online airline booking implies that the rate does not include any additional operational costs or surcharges.</p>
 <h3>About</h3>
 <p><strong>Norse Atlantic Airways</strong>. is a newly established long-haul low-cost airline based in Norway. The airline was founded in 2021 and aims to provide affordable transatlantic flights between Europe and North America. The airways serves 7 US destinations (Boston, New York, Washington, Orlando, Miami, San Francisco and Los Angeles) and is the largest transatlantic operator from London Gatwick Airport.&nbsp;</p>
 <h3>About our fleet</h3>
@@ -178,9 +178,9 @@ document.getElementsByTagName('meta')["description"].content = "Find cheap fligh
    <li>Thailand</li>   
 </ul>
 <h3>Booking Method</h3>
-<p>To book a low-cost flight, passengers must go to the Quickflightfares website. Online flight booking saves money since it may be done without paying a service fee. Nobody needs to travel to the airport to reserve a seat. The most convenient option is to book your <strong>affordable flight tickets online</strong>, but you may also arrange your trip by phoning our reservation number. Call us at <?=TFN?> to book your flight. To take advantage of the new <strong>low-cost airfare</strong> with all-inclusive facilities, please contact us.&nbsp;</p>
-<h3>What distinguishes Quickflightfares as a rare star?</h3>
-<p>Quickflightfares may provide you with happiness and smiles at the lowest cost. There are several inexpensive airlines offers available, and you do not need to look hard for them. Booking in advance will help you save money on plane tickets, as last-minute purchases may incur expensive surcharges. If you are planning a family vacation, be sure to let the travel agent know in advance so they can provide you with better bargains that will give you a lovely trip with cost-saving values. Be with us and enjoy a hassle-free <strong>affordable flight journey</strong>.</p>
+<p>To book a low-cost flight, passengers must go to the Flybookpro website. Online flight booking saves money since it may be done without paying a service fee. Nobody needs to travel to the airport to reserve a seat. The most convenient option is to book your <strong>affordable flight tickets online</strong>, but you may also arrange your trip by phoning our reservation number. Call us at <?=TFN?> to book your flight. To take advantage of the new <strong>low-cost airfare</strong> with all-inclusive facilities, please contact us.&nbsp;</p>
+<h3>What distinguishes Flybookpro as a rare star?</h3>
+<p>Flybookpro may provide you with happiness and smiles at the lowest cost. There are several inexpensive airlines offers available, and you do not need to look hard for them. Booking in advance will help you save money on plane tickets, as last-minute purchases may incur expensive surcharges. If you are planning a family vacation, be sure to let the travel agent know in advance so they can provide you with better bargains that will give you a lovely trip with cost-saving values. Be with us and enjoy a hassle-free <strong>affordable flight journey</strong>.</p>
          </div>
          <a class="readmore stmpbtn" href="#">Read more...</a>	      
       </div>

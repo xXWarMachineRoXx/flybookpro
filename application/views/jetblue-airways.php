@@ -163,7 +163,7 @@ document.getElementsByTagName('meta')["description"].content = "Fly high without
          <div class="headingtxt hdadjt">
             <div class="headh3 txt-ff">Jetblue Airways (Major Carrier)</div>
          </div>
-         <p>It is simple to book tickets online with Quickflightfares. We can assist you if you need to confirm airline schedules or reserve a seat.</p>
+         <p>It is simple to book tickets online with Flybookpro. We can assist you if you need to confirm airline schedules or reserve a seat.</p>
 <p>Additionally, using our platform to check JetBlue flight information while on the road is much simpler and more practical.</p>
 <p>Once you have purchased your tickets, if you require assistance with JetBlue Online check-in, please don't hesitate to get in touch with us.</p>
 <h3>Introduction to JetBlue</h3>

@@ -1,7 +1,7 @@
-<script>quickflightfaresquickflightfares
-document.title = "Cancellation and Refund Policy - quickflightfares";
+<script>flybookproflybookpro
+document.title = "Cancellation and Refund Policy - flybookpro";
 document.getElementsByTagName('meta')["keywords"].content = "";
-document.getElementsByTagName('meta')["description"].content = "quickflightfares ";
+document.getElementsByTagName('meta')["description"].content = "flybookpro ";
 </script>
 
 <section id="services" class="section p-0">

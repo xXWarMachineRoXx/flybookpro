@@ -1,5 +1,5 @@
 <script>
-document.title = "Looking for affordable travel options on Air Canada?  - Quickflightfares";       
+document.title = "Looking for affordable travel options on Air Canada?  - Flybookpro";       
 document.getElementsByTagName('meta')["keywords"].content = "";       
 document.getElementsByTagName('meta')["description"].content = "Get ready to take off to your next adventure without breaking the bank - book cheap flights with us today.";   
 </script>
@@ -164,8 +164,8 @@ document.getElementsByTagName('meta')["description"].content = "Get ready to tak
          <div class="headingtxt hdadjt">
             <div class="headh3 txt-ff">Air Canada</div>
          </div>
-         <h3>Air Canada Flights at Quickflightfares</h3>
-        <p>A pleasant travel is probably the finest way to begin a well-deserved vacation, but there are a lot of obstacles to conquer before you can relax on the beach – from finding low-cost flights to going through security without undue stress. At Quickflightfares, we make it easy for you to book Air Canada flights and enjoy a seamless travel experience.</p>
+         <h3>Air Canada Flights at Flybookpro</h3>
+        <p>A pleasant travel is probably the finest way to begin a well-deserved vacation, but there are a lot of obstacles to conquer before you can relax on the beach – from finding low-cost flights to going through security without undue stress. At Flybookpro, we make it easy for you to book Air Canada flights and enjoy a seamless travel experience.</p>
 <h3>It is time to plan your trip to the US</h3>
 <p>Based on your location, the duration and price of flights to the Air Canada Flights vary substantially. A flight to the east coast usually takes seven hours, whereas a flight to the west coast could take up to eleven. However, British tourists go to this big and diverse country, and tight competitiveness on popular routes suggests you may get some affordable US flights if you browse around. And over 30 US cities have direct flights from the UK, namely Washington, DC, Austin, Chicago, San Francisco, Las Vegas, Miami, and Boston.</p>
 <p>It plays a vital role where you enter. If you skip the high seasons of summer and Christmas, finding affordable US airfares to the east coast seems to be very easy, especially with low-cost carriers. When you get to the west coast, the savings from flying indirectly begin to add up: a trip to San Francisco with two stops might save you a good amount over a non-stop flight, and you might even appreciate the opportunity to stretch your legs.</p>
@@ -175,10 +175,10 @@ document.getElementsByTagName('meta')["description"].content = "Get ready to tak
 <p>The Rockies, a little further inland, offer some of the excellent skiing on the planet. New Orleans and Memphis, for example, offer captivating rhythms and delectable soul food, all enveloped in the region's famed warmth and charm.</p>
 <p>Between the two, lesser-known cities and towns punctuate an ever-changing environment of deserts, mountains, plains, and forests, beckoning you to get out there and experience. Yosemite, Yellowstone, and the famous Grand Canyon are among the 60 national parks in the Air Canada Flights.</p>
 <div class="all-content" style="display: block; overflow: hidden;">
-<h3>Book your flights as soon as possible at Quickflightfares to get the best prices</h3>
-<p>Should you reserve your flights early to get the best prices, or should you wait until the end to get a good deal? It's usually a good idea to book ahead of time to save money on your vacation. At Quickflightfares, we offer competitive prices and exclusive deals to ensure you get the best value for your Air Canada flights.</p>
-<p>Flight fares are typically sold on a first-come, first-served ground, with prices rising only as fast as the cheapest fare category is sold. Don't miss out on great deals by waiting too long. Visit Quickflightfares today to secure your flights!</p>
-<p>Sign up for airline updates and newsletters at Quickflightfares to increase your chances of getting in early. You'll be the first to hear when their new flights are available.</p>
+<h3>Book your flights as soon as possible at Flybookpro to get the best prices</h3>
+<p>Should you reserve your flights early to get the best prices, or should you wait until the end to get a good deal? It's usually a good idea to book ahead of time to save money on your vacation. At Flybookpro, we offer competitive prices and exclusive deals to ensure you get the best value for your Air Canada flights.</p>
+<p>Flight fares are typically sold on a first-come, first-served ground, with prices rising only as fast as the cheapest fare category is sold. Don't miss out on great deals by waiting too long. Visit Flybookpro today to secure your flights!</p>
+<p>Sign up for airline updates and newsletters at Flybookpro to increase your chances of getting in early. You'll be the first to hear when their new flights are available.</p>
 <h3>When possible, travel when the traffic is calm</h3>
 <p>If you're not constrained by paid holidays or school vacations, you must be able to significantly reduce your travel costs - and have a less frantic airport experience.</p>
 <p>Though traveling on a Tuesday is often considered to be the most affordable day of the week, you may save a lot of money on flights by flying at less busy events.</p>

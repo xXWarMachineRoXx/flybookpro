@@ -24,19 +24,19 @@ input[type="text"]:disabled {
     padding: 5px 16px;
     font-weight: 600;
     font-size: 15px;
-    background-color:#62B8FF;
+    background-color:#ff653c;
     border: none;
     color: #ffffff;
 }
 
 .booking-selection .nav-tabs li button.active {
-    color:#035273;
+    color:#214285;
     font-weight: 600;
 }
 
 .booking-selection .nav-tabs li button:hover {
     background-color: #fff;
-    color:#035273;
+    color:#214285;
 }
 
 .booking-selection .nav-tabs li.active button {
@@ -73,7 +73,7 @@ input[type="text"]:disabled {
 }
 
 .search-box1 h3 {
-    color:#035273;
+    color:#214285;
     font-size: 26px;
     padding-bottom: 7px;
 }
@@ -91,7 +91,7 @@ input[type="text"]:disabled {
 
 .search-box1 .lowerform label {
     font-size: 14px;
-    color:#035273;
+    color:#214285;
     font-weight: 400;
     margin-bottom: 6px;
 }
@@ -110,10 +110,10 @@ input[type="text"]:disabled {
     margin: 2px 8px;
 }
 .element-input::placeholder{
-    color: #62B8FF !important;
+    color: #ff653c !important;
 }
 .search-box1 .lowerform .large {
-    border: solid 2px #035273;
+    border: solid 2px #214285;
     padding: 0px 15px 0px 31px;
     color: rgba(0, 83, 191, 1);
     width: 100%;
@@ -164,7 +164,7 @@ input[type="text"]:disabled {
 }
 
 .search-box1 .lowerform .large-date {
-    border:solid 2px #035273;
+    border:solid 2px #214285;
     padding: 0px 25px 0px 12px;
     color: rgba(0, 83, 191, 1);
     width: 100%;
@@ -268,7 +268,7 @@ input[type="text"]:disabled {
 .search-box1 .lowerform .element-adult ul li .ad-cut i {
     font-size: 19px;
     padding-right: 7px;
-    color: #62B8FF;
+    color: #ff653c;
 }
 
 .search-box1 .lowerform .large-adult {
@@ -287,7 +287,7 @@ input[type="text"]:disabled {
     text-transform: uppercase;
     margin: 0;
     outline: none;
-    border:solid 2px #035273;
+    border:solid 2px #214285;
     background-color: #fff;
 }
 
@@ -342,12 +342,12 @@ input[type="text"]:disabled {
 }
 
 .activebutton {
-    border-bottom: 1px solid #62B8FF;
-    color: #62B8FF;
+    border-bottom: 1px solid #ff653c;
+    color: #ff653c;
 }
 
 .activebutton,.activebutton input[name="RoundMultiOnewayTrip"] {
-    accent-color: #62B8FF;
+    accent-color: #ff653c;
 }
 
 .element-search {
@@ -362,13 +362,13 @@ input[type="text"]:disabled {
     border: 0;
     font-size: 15px;
     border-radius: 30px;
-    background-color:#62B8FF;
+    background-color:#ff653c;
     cursor: pointer;
     display: inline-block;
 }
 
 .element-search .search-button:hover {
-    background-color:#035273;
+    background-color:#214285;
 }
 
 .call-tag {

@@ -31,10 +31,10 @@ document.title = "Privacy Policy - <?= WEBSITE ?>";
          <!-- Four columns -->
          <div class="row">
              <div class="content-sec tc-section">
-                 <p>We value your privacy and strive to protect your personal information at Quickflightfares, a United
+                 <p>We value your privacy and strive to protect your personal information at Flybookpro, a United
                      States-based company. This <a href="#"> <u>Privacy Policy </u></a> is designed to provide you with clear and
                      transparent information about the data we collect when you visit our website at <u> <a
-                         class='link' href="https://Quickflightfares/">Quickflightfares</a></u> , why we collect
+                         class='link' href="https://Flybookpro/">Flybookpro</a></u> , why we collect
                      it, and how we use it. By using our website, you signify your consent to the terms of this Policy.
 
                      In the following sections, we outline the specific types of information we may request from you and
@@ -100,7 +100,7 @@ document.title = "Privacy Policy - <?= WEBSITE ?>";
 
                  <h2>Can the Policy Be Changed?</h2>
                  <p>
-                     Quickflightfares™ reserves the right to change or modify the privacy policy. The policy in effect at the
+                     Flybookpro™ reserves the right to change or modify the privacy policy. The policy in effect at the
                      time you share your information will be applicable to your booking.
                  </p>
 
@@ -108,7 +108,7 @@ document.title = "Privacy Policy - <?= WEBSITE ?>";
                  <p>
                      We welcome any comments or questions regarding our privacy policy or any other aspect of our
                      services. Please feel free to contact us via email at <u><a
-                         href="mailto:info@Quickflightfares">info@Quickflightfares</a></u> for further information.
+                         href="mailto:info@Flybookpro">info@Flybookpro</a></u> for further information.
                  </p>
              </div>
          </div>

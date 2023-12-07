@@ -20,17 +20,17 @@
          <div class="row">
             <div class="col-12 col-md-6">
                <h3 class="headh3">About Us</h3>
-               <p>Experience hassle-free ticket booking at pocket-friendly prices with Quickflightfares, one of the fastest-growing
+               <p>Experience hassle-free ticket booking at pocket-friendly prices with Flybookpro, one of the fastest-growing
             companies in the industry.</p>
         <p>Our commitment to simplicity is powered by cutting-edge technology and knowledgeable travel experts, making
             the travel search process incredibly easy.</p>
         <p>Discover your ideal vacation by choosing from a vast array of airline, hotel, and car rental partners
-            worldwide. With Quickflightfares, you'll always find the best flight fares while enjoying a comfortable booking
+            worldwide. With Flybookpro, you'll always find the best flight fares while enjoying a comfortable booking
             experience.</p>
         <p>Thanks to our innovative technology and dedicated travel industry specialists, we connect with each customer
             swiftly, earning the trust of travelers globally. Our unique hybrid business model combines the convenience
             of online booking with personalized assistance from our 24/7 team of certified travel agents.</p>
-        <p>Whether you explore our user-friendly websites or reach out to our trained travel agents, Quickflightfares is
+        <p>Whether you explore our user-friendly websites or reach out to our trained travel agents, Flybookpro is
             here to help you discover and book your perfect journey.</p>
 
 
@@ -43,10 +43,10 @@
          <div class="row">
             <div class="col-12">
                <h3 class="headh3">Booking Cheap Flights Online: </h3>
-               <p>With reservations arranged with Quickflightfares, you can take a low-cost family holiday, group excursion,
+               <p>With reservations arranged with Flybookpro, you can take a low-cost family holiday, group excursion,
                   work trip, or a souful solo trip. Although the online booking process is quick and simple, you can
                   contact the customer care staff to book your preferred seat over the phone.
-                  Your quest for the best flight services under your price range comes to an end at Quickflightfares.
+                  Your quest for the best flight services under your price range comes to an end at Flybookpro.
                </p>
             </div>
 

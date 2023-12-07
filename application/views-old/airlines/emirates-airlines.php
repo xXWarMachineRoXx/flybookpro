@@ -1,7 +1,7 @@
 <script>
-document.title = "Book Cheap Flight Ticket on Emirates Airlines | Get Cheap Flight Deal Emirates  Airlines - Quickflightfares";       
+document.title = "Book Cheap Flight Ticket on Emirates Airlines | Get Cheap Flight Deal Emirates  Airlines - Flybookpro";       
 document.getElementsByTagName('meta')["keywords"].content = "";       
-document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Quickflightfares. Get the best fairs With US - call us @ <?=TFN?>";   
+document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Flybookpro. Get the best fairs With US - call us @ <?=TFN?>";   
 </script>
    <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"  style="background-image: url('frontend/images/emirates-air.jpg'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;">
  <?php include 'includes/api-banner.php'; ?>  
@@ -151,11 +151,11 @@ document.getElementsByTagName('meta')["description"].content = "Find cheap fligh
          <div class="headingtxt hdadjt">
             <div class="headh3 txt-ff">Emirates Airlines</div>
          </div>
-        <p>You may go to new places thanks to our <strong>affordable flight tickets</strong>. Quickflightfares offers significant reductions in booking fees. <strong>Emirates Airlines' low-cost flights </strong>have never been the same. Don't doubt the ability of our technology to help you save the expense of your trip. Quickflightfares makes up for your feelings by providing surprising discounts, exclusive deals that are only available by phone, seasonal promotions, and coupon codes that guarantee the largest savings.&nbsp;</p>
+        <p>You may go to new places thanks to our <strong>affordable flight tickets</strong>. Flybookpro offers significant reductions in booking fees. <strong>Emirates Airlines' low-cost flights </strong>have never been the same. Don't doubt the ability of our technology to help you save the expense of your trip. Flybookpro makes up for your feelings by providing surprising discounts, exclusive deals that are only available by phone, seasonal promotions, and coupon codes that guarantee the largest savings.&nbsp;</p>
 <h3>About</h3>
-<p>Emirates is an international airline located in Dubai that was created in 1985. It has a fleet of around 221 aircraft and serves over 170 destinations globally. Emirates offers nonstop service to all six continents from Dubai. Emirates Airlines is well-known for its elegance and excellent customer service. This is the first airline to provide in-flight connectivity in all classes, individual TV displays on every seat, First class suites, and onboard bathroom facilities on A380 aircraft. Quickflightfares provides <strong>Emirates Airlines flight tickets</strong> from a broad selection of <strong>low-cost flight tickets</strong> to everywhere in the globe.</p>
+<p>Emirates is an international airline located in Dubai that was created in 1985. It has a fleet of around 221 aircraft and serves over 170 destinations globally. Emirates offers nonstop service to all six continents from Dubai. Emirates Airlines is well-known for its elegance and excellent customer service. This is the first airline to provide in-flight connectivity in all classes, individual TV displays on every seat, First class suites, and onboard bathroom facilities on A380 aircraft. Flybookpro provides <strong>Emirates Airlines flight tickets</strong> from a broad selection of <strong>low-cost flight tickets</strong> to everywhere in the globe.</p>
 <h3>Destinations</h3>
-<p>Emirates Airlines operates flights throughout the United States, Canada, Algeria, Mexico, Poland, the Czech Republic, and other well-known destinations. The airline provides <strong>low-cost domestic flights</strong> to a number of locations. Contact the <strong>Quickflightfares reservation service</strong> to obtain the <strong>best air flight booking service</strong>. Quickflightfares enables you to realize the full benefits of the convenience junction. On Emirates domestic flights, you will never have to battle to get <strong>inexpensive flight tickets</strong>.</p>
+<p>Emirates Airlines operates flights throughout the United States, Canada, Algeria, Mexico, Poland, the Czech Republic, and other well-known destinations. The airline provides <strong>low-cost domestic flights</strong> to a number of locations. Contact the <strong>Flybookpro reservation service</strong> to obtain the <strong>best air flight booking service</strong>. Flybookpro enables you to realize the full benefits of the convenience junction. On Emirates domestic flights, you will never have to battle to get <strong>inexpensive flight tickets</strong>.</p>
 <table class="tblctm table table-bordered table-sm">
 <tbody>
 <tr>
@@ -409,9 +409,9 @@ document.getElementsByTagName('meta')["description"].content = "Find cheap fligh
 
 <div class="all-content">
 <h3>Booking options</h3>
-<p>You may reach us in two ways: by calling the toll-free reservation number or by making an online callback request. <strong>Emirates Airlines flight reservations </strong>offered by Quickflightfares will help you save more while enjoying premium services. Connect with us and enjoy exclusive flight deals without limiting comfort and luxury.&nbsp;</p>
+<p>You may reach us in two ways: by calling the toll-free reservation number or by making an online callback request. <strong>Emirates Airlines flight reservations </strong>offered by Flybookpro will help you save more while enjoying premium services. Connect with us and enjoy exclusive flight deals without limiting comfort and luxury.&nbsp;</p>
 <h3>Check-in&nbsp;</h3>
-<p>The check-in counter opens two hours before the scheduled departure time and closes 45 minutes before that time for domestic flights. Web check-in is available starting 24 hours prior to departure and lasts up to 90 minutes before takeoff. Reservations with a total of nine or fewer passengers and the same PNR number are eligible for web check-in. You can enjoy luxury by connecting with Quickflightfares and<strong> incredible exclusive unpublished offers</strong> in your comfort.</p>
+<p>The check-in counter opens two hours before the scheduled departure time and closes 45 minutes before that time for domestic flights. Web check-in is available starting 24 hours prior to departure and lasts up to 90 minutes before takeoff. Reservations with a total of nine or fewer passengers and the same PNR number are eligible for web check-in. You can enjoy luxury by connecting with Flybookpro and<strong> incredible exclusive unpublished offers</strong> in your comfort.</p>
          </div>
          <a class="readmore stmpbtn" href="#">Read more...</a>	      
       </div>

@@ -39,9 +39,9 @@ defined('R_DATE') or define('R_DATE', "2023-07-30");
 ?>
 
 <script>
-   document.title = "Book Cheap Flight Ticket on British Airways | Get Cheap Flight Deal British Airways - Quickflightfares";
+   document.title = "Book Cheap Flight Ticket on British Airways | Get Cheap Flight Deal British Airways - Flybookpro";
    document.getElementsByTagName('meta')["keywords"].content = "";
-   document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Quickflightfares. Get the best fairs With US - call us @ <?=TFN?>";   
+   document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Flybookpro. Get the best fairs With US - call us @ <?=TFN?>";   
 </script>
 <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"
    style="background-image: url('frontend/images/destination.avif'); background-position: 60% center;background-no-repeat: no-repeat; background-size: cover;">
@@ -135,7 +135,7 @@ defined('R_DATE') or define('R_DATE', "2023-07-30");
          <?= full_name_fl ?> to
          <?= full_name_tl ?>
       </h3>
-      Experience seamless air travel ticket booking with Quickflightfares. Our Expert Travel agents ensure quick and
+      Experience seamless air travel ticket booking with Flybookpro. Our Expert Travel agents ensure quick and
          convenient reservations to a multitude of global destinations. Benefit from transparent pricing and incredible
          offers to book your tickets today.
 
@@ -147,7 +147,7 @@ defined('R_DATE') or define('R_DATE', "2023-07-30");
          <li>While last-minute deals can occasionally be found, it's generally advisable to book your flight at least a
             few weeks in advance. Airlines often offer lower prices for those who plan ahead, ensuring you secure your
             preferred flight and seat.</li>
-         <li>Quickflightfares Experience Travel Experts can assist to provide personalised expert guidance.</li>
+         <li>Flybookpro Experience Travel Experts can assist to provide personalised expert guidance.</li>
          <li> Bundle Deals that combine flights, accommodation, and even car rentals to help you enjoy significant cost
             savings</li>
       </ol>
@@ -155,15 +155,15 @@ defined('R_DATE') or define('R_DATE', "2023-07-30");
 
       <div class="all-content">
          <h3 class='fw-bold'>Booking Method</h3>
-         To book a low-cost flight, passengers must go to the Quickflightfares website. Online flight booking saves money
+         To book a low-cost flight, passengers must go to the Flybookpro website. Online flight booking saves money
             since it may be done without paying a service fee. Nobody needs to travel to the airport to reserve a seat.
             The most convenient option is to book your affordable flight tickets online, but you may
             also arrange your trip by phoning our reservation number. Call us at
             <?=TFN?> to book your flight. To take advantage of the new low-cost airfare with
             all-inclusive facilities, please contact us.&nbsp;
          
-         <h3 class='fw-bold'>What distinguishes Quickflightfares as a rare star?</h3>
-         Quickflightfares may provide you with happiness and smiles at the lowest cost. There are several inexpensive
+         <h3 class='fw-bold'>What distinguishes Flybookpro as a rare star?</h3>
+         Flybookpro may provide you with happiness and smiles at the lowest cost. There are several inexpensive
             airlines offers available, and you do not need to look hard for them. Booking in advance will help you save
             money on plane tickets, as last-minute purchases may incur expensive surcharges. If you are planning a
             family vacation, be sure to let the travel agent know in advance so they can provide you with better
@@ -214,7 +214,7 @@ defined('R_DATE') or define('R_DATE', "2023-07-30");
 
 
       // Change the flight information dynamically
-      $('#flight-info').text('Flights from <?= FROM_LOCATION ?> to <?= TO_LOCATION ?> with Quickflightfares');
+      $('#flight-info').text('Flights from <?= FROM_LOCATION ?> to <?= TO_LOCATION ?> with Flybookpro');
 
 
       // Change the value of the input field with ID "flight-to" to "LAX"

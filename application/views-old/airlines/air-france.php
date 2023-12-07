@@ -1,5 +1,5 @@
 <script>
-document.title = "Looking for affordable travel options on Air france?  - Quickflightfares";       
+document.title = "Looking for affordable travel options on Air france?  - Flybookpro";       
 document.getElementsByTagName('meta')["keywords"].content = "";       
 document.getElementsByTagName('meta')["description"].content = "Get ready to take off to your next adventure without breaking the bank - book cheap flights with us today.";   
 </script>
@@ -164,9 +164,9 @@ document.getElementsByTagName('meta')["description"].content = "Get ready to tak
          <div class="headingtxt hdadjt">
             <div class="headh3 txt-ff txtc">Air France </div>
          </div>
-		<p>Enjoy <strong>cheap flight deals</strong> to your destination without compromising on services by booking tickets with Quickflightfares. We present numerous deals on various world’s renowned airlines. At <strong>Quickflightfares</strong>, we secure the best deal on <strong>Air France</strong>. No need to fuss when you can secure better deals on your desired airlines.&nbsp;</p>
+		<p>Enjoy <strong>cheap flight deals</strong> to your destination without compromising on services by booking tickets with Flybookpro. We present numerous deals on various world’s renowned airlines. At <strong>Flybookpro</strong>, we secure the best deal on <strong>Air France</strong>. No need to fuss when you can secure better deals on your desired airlines.&nbsp;</p>
 <h3>About</h3>
-<p>Booking tickets with one of the world's prominent airlines that delivers impeccable services to a wide range of domestic and international destinations is a simple job to enact, appreciation to Quickflightfares. However, before securing <strong>cheap flight tickets</strong> on Air France first try to understand a brief thesis on the airline.&nbsp;</p>
+<p>Booking tickets with one of the world's prominent airlines that delivers impeccable services to a wide range of domestic and international destinations is a simple job to enact, appreciation to Flybookpro. However, before securing <strong>cheap flight tickets</strong> on Air France first try to understand a brief thesis on the airline.&nbsp;</p>
 <ul>
 <li>The airline was founded on 7 October 1933 and served more than 200 destinations worldwide.</li>
 <li>Air France has been serving the flight service for the last 9 decades. You can trust their service as the airline has spread millions of miles assuring passenger comfort and safety.&nbsp;</li>
@@ -175,7 +175,7 @@ document.getElementsByTagName('meta')["description"].content = "Get ready to tak
 </ul>
 <h3>Destinations&nbsp;</h3>
 <p>Air France is an International airline serving flight services for the last nine decades. You can fly with France’s flag carriers to more than 200 destinations across the globe. All the major destinations are covered by the airline which will give your decision to choose Air France as your preferred airline a boost.&nbsp;</p>
-<p>Fly to any corner of the world including New York, San Francisco, and Chicago. Connect to <strong>Quickflightfares </strong>will help you guide you to earn <strong>low-cost flights</strong> to the United States or any other <strong>Air France International flight </strong>routes. You can connect us at <strong><?=TFN?></strong>, the number is kept operational all year round.</p>
+<p>Fly to any corner of the world including New York, San Francisco, and Chicago. Connect to <strong>Flybookpro </strong>will help you guide you to earn <strong>low-cost flights</strong> to the United States or any other <strong>Air France International flight </strong>routes. You can connect us at <strong><?=TFN?></strong>, the number is kept operational all year round.</p>
 <div class="all-content">
 <h3>Baggage Allowance</h3>
 <p>Air France allows passengers to carry hand luggage, personal items, as well as checked luggage for free based on flight type, ticket category, destination, and membership level. In this section, we go through each allowed baggage regulation and guide you through the <strong>Air France baggage allowance</strong> in layman’s terms.&nbsp;</p>
@@ -188,7 +188,7 @@ document.getElementsByTagName('meta')["description"].content = "Get ready to tak
 <li>The <strong>Air France carry-on baggage </strong>regulation specifies passengers need to place their cabin luggage in the overhead cabin and personal items under the front seat.</li>
 </ul>
 <p>Note: On some routes, the airline will allow one added luggage to passengers traveling with an infant or lap child.</p>
-<p>You can seek more details on <strong>Air France carry-on baggage allowance</strong> by communicating with the Quickflightfares. Connect with us and get the opportunity to solve your queries as well as make reservations on <strong>Air France International flights</strong> at reasonable prices.&nbsp;</p>
+<p>You can seek more details on <strong>Air France carry-on baggage allowance</strong> by communicating with the Flybookpro. Connect with us and get the opportunity to solve your queries as well as make reservations on <strong>Air France International flights</strong> at reasonable prices.&nbsp;</p>
 <h3>Checked Baggage Allowance</h3>
 <p>Air France allows passengers to carry up to four checked baggage depending on fare category, flight routes, membership level, cabin class, and mode of booking.&nbsp;</p>
 <ul>

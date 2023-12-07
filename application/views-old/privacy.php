@@ -31,15 +31,15 @@
       <!-- Four columns -->
       <div class="row">
          <div class="content-sec tc-section">
-            <p>Your privacy is important to us, so quickflightfares, a United States, has created the following Privacy
+            <p>Your privacy is important to us, so flybookpro, a United States, has created the following Privacy
                Policy ("Policy") to let you know what information we collect when you visit our Site
-               https://www.quickflightfares.com/ ("Site"), why we collect it and how we use it. The terms "You," "Your,"
+               https://www.flybookpro.com/ ("Site"), why we collect it and how we use it. The terms "You," "Your,"
                "Yours" and "User" refer to the entity/person/organization using our Site. When this Policy mentions
-               "We", "Us," and "Our" it refers to quickflightfares and its subsidiaries and affiliates. This Privacy
-               Policy is governed by our&nbsp;<a href="https://www.quickflightfares.com/terms" data-type="URL"
-                  data-id="https://www.quickflightfares.com/terms">Terms of Services</a>. For any questions regarding
+               "We", "Us," and "Our" it refers to flybookpro and its subsidiaries and affiliates. This Privacy
+               Policy is governed by our&nbsp;<a href="https://www.flybookpro.com/terms" data-type="URL"
+                  data-id="https://www.flybookpro.com/terms">Terms of Services</a>. For any questions regarding
                this Policy or any requests regarding the processing of personal data, please contact us at
-               support@quickflightfares.com.</p>
+               support@flybookpro.com.</p>
             <h3>1. INFORMATION WE COLLECT FROM YOU</h3>
             <p>We collect the information You provide to us and this information is necessary for the adequate
                performance of the contractual arrangement which is in place between You and us and allows us to comply
@@ -133,7 +133,7 @@
                not guarantee the absolute protection and security of your personal information. We, therefore, encourage
                you to avoid providing us or anyone with any sensitive information of which you believe its disclosure
                could cause you substantial or irreparable harm. If you have any questions regarding the security of our
-               Site or Services, you are welcome to contact us at support@quickflightfares.com.</p>
+               Site or Services, you are welcome to contact us at support@flybookpro.com.</p>
             <h3>12. YOUR RIGHTS</h3>
             <p>You are entitled to a range of rights regarding the protection of your personal information. Those rights
                are:</p>

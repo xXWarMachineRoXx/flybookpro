@@ -11,7 +11,7 @@
          <div class="search-box1">
             <form name="frm" id="sformdata" class="form" method="get" action="<?= base_url() ?>Result">
                <input type="hidden" name="submitForm" value="flights" />
-               <h3 id="flight-info">Book flight ticket with Quickflightfares at the lowest prices</h3>
+               <h3 id="flight-info">Book flight ticket with Flybookpro at the lowest prices</h3>
                <div class="element-radio d-flex">
                   <div class="column activebutton">
                      <input type="radio" name="trip" value="round" id="phone_yes" checked />

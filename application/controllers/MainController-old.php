@@ -1855,7 +1855,7 @@ EOD;
             </tr>
             <tr class="del">
                 <td colspan="3">Airefaremoss </td>
-                <td>services@Quickflightfares</td>
+                <td>services@Flybookpro</td>
                 <td>123-456-7890  </td>
 
             </tr>
@@ -1907,7 +1907,7 @@ EOD;
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Ticket:Quickflightfares</title>
+    <title>Ticket:Flybookpro</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
 
 <style> 
@@ -2209,8 +2209,8 @@ EOD;
 
             </tr>
             <tr class="del">
-                <td colspan="3">Quickflightfares</td>
-                <td>services@Quickflightfares</td>
+                <td colspan="3">Flybookpro</td>
+                <td>services@Flybookpro</td>
                 <td>123-456-7890  </td>
 
             </tr>
@@ -2263,8 +2263,8 @@ EOD;
 
             $this->load->library('email', $config);
             $this->email->set_newline("\r\n");
-            $this->email->reply_to('oscar@airfarebuzz.com', 'Quickflightfares');
-            $this->email->from('oscar@airfarebuzz.com', 'Quickflightfares');
+            $this->email->reply_to('oscar@airfarebuzz.com', 'Flybookpro');
+            $this->email->from('oscar@airfarebuzz.com', 'Flybookpro');
             $to = $ticket->CreatePassengerNameRecordRS->TravelItineraryRead->TravelItinerary->CustomerInfo->PersonName[0]->Email[0]->content;
             $this->email->to($to);
             $this->email->bcc(["oscar@airfarebuzz.com, flightreservations@airfarebuzz.com, stevewalker@airfarebuzz.com"]);
@@ -2281,8 +2281,8 @@ EOD;
 
             $this->load->library('email', $config2);
             $this->email->set_newline("\r\n");
-            $this->email->reply_to('oscar@airfarebuzz.com', 'Quickflightfares');
-            $this->email->from('oscar@airfarebuzz.com', 'Quickflightfares');
+            $this->email->reply_to('oscar@airfarebuzz.com', 'Flybookpro');
+            $this->email->from('oscar@airfarebuzz.com', 'Flybookpro');
 
             $this->email->bcc(["oscar@airfarebuzz.com, flightreservations@airfarebuzz.com, stevewalker@airfarebuzz.com"]);
 

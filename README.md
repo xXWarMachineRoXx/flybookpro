@@ -1,29 +1,29 @@
 # FlyBookpro
 
-![FlybookPro](/media/images/logo.png)
+![FlybookPro](media/images/logo.png)
 
 Grap the cheapest airfares for Top Destinations
 
 ## Description
 
-FlyBookpro is a web application built with CodeIgniter that helps users find the cheapest airfares for top destinations. Whether you're planning a vacation, business trip, or any other travel, quickflightfares provides an easy and convenient way to search for affordable flights.
+FlyBookpro is a web application built with CodeIgniter that helps users find the cheapest airfares for top destinations. Whether you're planning a vacation, business trip, or any other travel, flybookpro provides an easy and convenient way to search for affordable flights.
 
 ## Features
 
 - **Search Flights:** Users can search for flights by specifying their departure and destination airports, travel dates, and any other relevant criteria.
 
-- **Price Comparison:** quickflightfares fetches flight prices from multiple airlines and displays them in a convenient comparison format, allowing users to find the best deals.
+- **Price Comparison:** flybookpro fetches flight prices from multiple airlines and displays them in a convenient comparison format, allowing users to find the best deals.
 
 - **Filter and Sort:** Users can filter and sort search results based on various parameters such as price, departure time, arrival time, and more.
 
-- **Flight Details:** quickflightfares provides detailed information for each flight, including airline, flight duration, layovers (if any), and other relevant details.
+- **Flight Details:** flybookpro provides detailed information for each flight, including airline, flight duration, layovers (if any), and other relevant details.
 
 - **User Accounts:** Users can create accounts to save their search preferences, track their bookings, and receive personalized recommendations.
 
 ## Installation and Setup
 
-1. Clone the repository: `git clone https://github.com/your-username/quickflightfares.git`
-2. Navigate to the project directory: `cd quickflightfares`
+1. Clone the repository: `git clone https://github.com/your-username/flybookpro.git`
+2. Navigate to the project directory: `cd flybookpro`
 3. Install dependencies: `composer install`
 4. Configure the database connection in `application/config/database.php`
 5. Run database migrations: `php spark migrate`
@@ -48,5 +48,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or further information, please contact our team at contact@quickflightfares.com.
+For any inquiries or further information, please contact our team at contact@flybookpro.com.
 

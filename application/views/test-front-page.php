@@ -1,7 +1,7 @@
 <script>
-   document.title = "Flight Tickets Booking, Online Tickets at Low Airfares - Quickflightfares";
+   document.title = "Flight Tickets Booking, Online Tickets at Low Airfares - Flybookpro";
    document.getElementsByTagName('meta')["keywords"].content = "Airline Booking in USA, Online Tickets Booking USA, Airline Ticket Booking Services, Flight Reservation USA, Aeroplane Ticket Booking, Flight Ticket Rates in USA, Flight Ticket Online, Airline Ticket Prices in USA, Airfare Prices in USA, Air Flight Tickets";
-   document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost Flight Tickets on Quickflightfares. Book Now to Save! Experience Fast, Easy & Secure Flight Booking on Quickflightfares. Book Now! For Booking Call @ <?=TFN?>.";
+   document.getElementsByTagName('meta')["description"].content = "Get Our Low Cost Flight Tickets on Flybookpro. Book Now to Save! Experience Fast, Easy & Secure Flight Booking on Flybookpro. Book Now! For Booking Call @ <?=TFN?>.";
 </script>
 <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"  style="background-image: url('frontend/images/bg.jpg'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;">
  <?php include 'includes/api-banner.php'; ?>  
@@ -226,14 +226,14 @@
    
    <div class="bottom-txt mt-5 mb-5">
       <div class="container">
-         <p>With us, you can purchase the most affordable airline tickets. Year-round, Quickflightfares provides inexpensive flights to both tourist and business destinations. You may always leave on an enjoyable holiday without bothering about your finances thanks to our affordable tickets. Look no further if you're searching for inexpensive round-trip or one-way flights. Right here on Quickflightfares, discover the top travel offers. We have a wide range of travel offers to all of your preferred locations.</p>
-<p>Online purchasing of inexpensive airline tickets has never been simpler. Simply go on to Quickflightfares to examine the selection of available travel bargains. Pick the option that works best for your book and budget. If you have any problems with your booking, our customer support team is available around the clock and will be pleased to assist you. Don't forget to utilize our discount coupons when making your reservation to save even more money and take advantage of tempting airfare savings.</p>
+         <p>With us, you can purchase the most affordable airline tickets. Year-round, Flybookpro provides inexpensive flights to both tourist and business destinations. You may always leave on an enjoyable holiday without bothering about your finances thanks to our affordable tickets. Look no further if you're searching for inexpensive round-trip or one-way flights. Right here on Flybookpro, discover the top travel offers. We have a wide range of travel offers to all of your preferred locations.</p>
+<p>Online purchasing of inexpensive airline tickets has never been simpler. Simply go on to Flybookpro to examine the selection of available travel bargains. Pick the option that works best for your book and budget. If you have any problems with your booking, our customer support team is available around the clock and will be pleased to assist you. Don't forget to utilize our discount coupons when making your reservation to save even more money and take advantage of tempting airfare savings.</p>
 
          <h3>We ensure simplicity and convenience</h3>
         <p>Look forward to destinations you may visit right now to find the best offers among thousands of<strong> domestic and international flights</strong>.</p>
 <p>Our services are completely free of any additional fees or levies. You'll always be aware of where your money is going with us. As a result, you can unwind before your journey even begins.</p>
 <p>Furthermore, we discover that there are many options for travel. You don't fly across the globe every day to marvel at stunning sights and take in a romantic sunrise. But it's what we do every day. Let's just say that we are aware of what travelers want. We give you the greatest travel products, outline their advantages and disadvantages, and allow you to decide which is ideal for you and your family. Many travel agencies make the claim to be the finest, but we believe that very few can equal our experts in providing accurate, first-hand knowledge.</p>
-<p>We combine first-hand experience with fantastic deals, we take care of minor to small statistics, and we construct a vacation that is as unique as you are. As all of your needs are met under one roof at Quickflightfares, you won't need to worry about arranging flight tickets any longer.</p>
+<p>We combine first-hand experience with fantastic deals, we take care of minor to small statistics, and we construct a vacation that is as unique as you are. As all of your needs are met under one roof at Flybookpro, you won't need to worry about arranging flight tickets any longer.</p>
 <p>Follow these easy suggestions when purchasing your airline tickets for your upcoming vacation. You can significantly reduce the cost of your flight with these suggestions.</p>
 <h3>Most affordable times to book flights</h3>
 <p>One great strategy for reducing airfares is to book your flight at the right time.</p>
@@ -286,7 +286,7 @@
    </div>
    
 <script>
-$('.airline-name').text('Quickflightfares');
+$('.airline-name').text('Flybookpro');
 </script>
 
 <style>

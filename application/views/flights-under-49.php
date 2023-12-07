@@ -235,7 +235,7 @@ document.getElementsByTagName('meta')["description"].content = "Find cheap fligh
 </li>
 </ol>
 <p>Start your affordable adventure today! Book your low-cost flight tickets with our travel agency and unlock a world of incredible experiences without straining your budget. Don't let expensive flights hold you back from exploring the wonders of the world. Travel more, spend less!</p>
-<p><strong>Quickflightfares</strong> Your Gateway to Affordable Exploration.</p>
+<p><strong>Flybookpro</strong> Your Gateway to Affordable Exploration.</p>
       </div>
    </div>
    

@@ -11,9 +11,13 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | of this setting
 |
 */
+
+
 defined('SHOW_DEBUG_BACKTRACE') or define('SHOW_DEBUG_BACKTRACE', TRUE);
 defined('LLC') or define('LLC', "FBP");
 defined('WEBSITE') or define('WEBSITE', "flybookpro.com");
+defined('WEBSITE_NAME') or define('WEBSITE_NAME', "Flybookpro");
+
 defined('TFN') or define('TFN', "+1 888-205-2999");
 defined('MAIL') or define('MAIL', "info@flybookpro.com");
 defined('EMAIL') or define('EMAIL', "info@flybookpro.com");

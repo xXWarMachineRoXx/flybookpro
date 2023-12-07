@@ -1,7 +1,7 @@
 <script>
-   document.title = "Site Map - Quickflightfares";
-   document.getElementsByTagName('meta')["keywords"].content = "Site Map Quickflightfares";
-   document.getElementsByTagName('meta')["description"].content = "Site Map Quickflightfares ";
+   document.title = "Site Map - Flybookpro";
+   document.getElementsByTagName('meta')["keywords"].content = "Site Map Flybookpro";
+   document.getElementsByTagName('meta')["description"].content = "Site Map Flybookpro ";
 </script>
 <div id="services" class="section ">
    <div class="inner-pages site-map">

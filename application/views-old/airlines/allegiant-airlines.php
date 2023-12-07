@@ -1,7 +1,7 @@
 <script>
-document.title = "Allegiant Airlines Online Cheap Flight Tickets - Quickflightfares";       
+document.title = "Allegiant Airlines Online Cheap Flight Tickets - Flybookpro";       
 document.getElementsByTagName('meta')["keywords"].content = "";       
-document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Quickflightfares. Get the best fairs With US - call us @ <?=TFN?>";   
+document.getElementsByTagName('meta')["description"].content = "Find cheap flight at Flybookpro. Get the best fairs With US - call us @ <?=TFN?>";   
 </script>
    <div id="header-wrapper" class="wrap-inpg py-4 py-md-5"  style="background-image: url('frontend/images/allegiant-air.jpg'); background-position: bottom;background-no-repeat: no-repeat; background-size: cover;">
  <?php include 'includes/api-banner.php'; ?>  
@@ -140,15 +140,15 @@ document.getElementsByTagName('meta')["description"].content = "Find cheap fligh
             <div class="headingtxt hdadjt text-center">
                <div class="headh3 txt-ff txtc">Allegiant Airlines</div>
             </div>
-  <p>Are you willing to travel for a critical necessity or professional obligation? Allegiant Airlines is the finest choice for you because it can significantly reduce your travel expenses. You can depend on Quickflightfares to always have <strong>cheap flight tickets</strong>. With the aid of our travel advisor, you can create simple preparations that protect your interests and allow you to fully enjoy your vacation.</p>
+  <p>Are you willing to travel for a critical necessity or professional obligation? Allegiant Airlines is the finest choice for you because it can significantly reduce your travel expenses. You can depend on Flybookpro to always have <strong>cheap flight tickets</strong>. With the aid of our travel advisor, you can create simple preparations that protect your interests and allow you to fully enjoy your vacation.</p>
 <h3>About</h3>
 <p>Most passengers assert that the airline provides the best service at the best value. It implies that they value Allegiant Air's affordable air transportation options to their secret places. In 1998, the airline's Summerlin, Nevada, U.S., headquarters began hosting regular flights. The airline established Allways Rewards, a frequent flyer program, as a means to thank its loyal customers. The airline can attract devoted clients with the aid of this tactic. Contact us and enjoy <strong>cheap flight deals</strong> to your desired destinations.</p>
 <h3>Destinations</h3>
-<p>Allegiant Air offers service to five different sites using two fleets of aircraft. This airline is one of the best budget airlines. The airline provides domestic flights between Las Vegas, Phoenix, Florida, San Diego, Louisville, and Asheville in addition to many more locations. You may still benefit from a variety of benefits even if you travel on budget airlines. You may connect to a variety of routes that aren't in operation with Allegiant Air and go to a magical location. Get <strong>cost-effective and exclusive flight deals</strong> to your destination by contacting Quickflightfares at <?=TFN?>. Our reservation toll-free number is operational round the clock.</p>
+<p>Allegiant Air offers service to five different sites using two fleets of aircraft. This airline is one of the best budget airlines. The airline provides domestic flights between Las Vegas, Phoenix, Florida, San Diego, Louisville, and Asheville in addition to many more locations. You may still benefit from a variety of benefits even if you travel on budget airlines. You may connect to a variety of routes that aren't in operation with Allegiant Air and go to a magical location. Get <strong>cost-effective and exclusive flight deals</strong> to your destination by contacting Flybookpro at <?=TFN?>. Our reservation toll-free number is operational round the clock.</p>
    
             <div class="all-content">
 			 <h3>Check-in</h3>
-<p>Allegiant Air customers can check in via one of two methods: offline or online. You can choose the finest choice based on your particular tastes. Consider checking in online if you value time and energy savings. It allows you to complete check-in without any further effort. For more information on the check-in deadline, please call Quickflightfares at <?=TFN?>. You may also use the toll-free hotline to search for l<strong>ow-cost flights or cheap flight tickets</strong>.</p>
+<p>Allegiant Air customers can check in via one of two methods: offline or online. You can choose the finest choice based on your particular tastes. Consider checking in online if you value time and energy savings. It allows you to complete check-in without any further effort. For more information on the check-in deadline, please call Flybookpro at <?=TFN?>. You may also use the toll-free hotline to search for l<strong>ow-cost flights or cheap flight tickets</strong>.</p>
 <strong>Online</strong>
 <ul>
 <li>Website</li>
@@ -164,7 +164,7 @@ document.getElementsByTagName('meta')["description"].content = "Find cheap fligh
 <p>Cabin Baggage</p>
 <p>Regardless of their fare class, passengers are allowed to bring one personal item for free. A bag that is no larger than 7 inches by 15 inches by 16 inches is permitted for passengers to bring. Travelers may check one piece of cabin luggage for a fee based on the flight route and ticket class, per <strong>Allegiant Air's baggage policy</strong>. The carry-on bag's dimensions cannot be larger than 9 inches by 14 inches by 22 inches (including wheels, handles, and pockets). To avail more information contact us at our toll-free number and you can employ the same number to gain <strong>affordable flight deals</strong>.</p>
 <p>Checked Baggage</p>
-<p><br />Since the airline may change the baggage policies, it is crucial to communicate with the Quickflightfares personnel to acquire information that has been verified. Contact us to get <strong>cheap flight tickets</strong> all year round. <?=TFN?> is the number to call to speak with one of our top-notch Quickflightfares travel experts. As you are aware, Allegiant Air provides inexpensive travel alternatives; as a result, they do not offer a complimentary service for checked baggage. The <strong>Allegiant Air checked baggage policy</strong> specifies that passengers with any form of ticket must pay a baggage tax based on the travel routes and price type. Each luggage a person transports may only be 18 kg in weight and 203 cm in height.</p>
+<p><br />Since the airline may change the baggage policies, it is crucial to communicate with the Flybookpro personnel to acquire information that has been verified. Contact us to get <strong>cheap flight tickets</strong> all year round. <?=TFN?> is the number to call to speak with one of our top-notch Flybookpro travel experts. As you are aware, Allegiant Air provides inexpensive travel alternatives; as a result, they do not offer a complimentary service for checked baggage. The <strong>Allegiant Air checked baggage policy</strong> specifies that passengers with any form of ticket must pay a baggage tax based on the travel routes and price type. Each luggage a person transports may only be 18 kg in weight and 203 cm in height.</p>
         
             </div>
             <a class="readmore stmpbtn" href="#">Read less</a>		

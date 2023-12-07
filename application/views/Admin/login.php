@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Quickflightfares Admin Panel - Login Page</title>
+    <title>Flybookpro Admin Panel - Login Page</title>
 
     <!-- Foundation framework -->
     <link rel="stylesheet" href="<?= base_url("admin_media/") ?>foundation/stylesheets/foundation.css" />

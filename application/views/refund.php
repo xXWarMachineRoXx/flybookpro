@@ -1,4 +1,4 @@
-<script>QuickflightfaresQuickflightfares
+<script>FlybookproFlybookpro
 document.title = "Cancellation and Refund Policy - Airfaremoss";
 document.getElementsByTagName('meta')["keywords"].content = "";
 document.getElementsByTagName('meta')["description"].content = "Airfaremoss ";
