@@ -1,6 +1,6 @@
-# quickflightfares
+# FlyBookpro
 
-![quickflightfares](/media/images/logo.png)
+![FlybookPro](/media/images/logo.png)
 
 Grap the cheapest airfares for Top Destinations
 
