@@ -1818,7 +1818,7 @@ left: 0px;bottom: -150px;}
 /*.flight-status img {width: 75px;height: 78px;}*/
 
 .flight-status .flex-fill {align-self: center;}
-.bknw {outline: 0 !important;padding: 4px 6px;border: 0;background:#ff653c;border-radius: 4px;color:#fff;font-weight: 600;font-size:12px;}
+.bknw {outline: 0 !important;padding: 4px 6px;border: 0;background:#e74933;border-radius: 4px;color:#fff;font-weight: 600;font-size:12px;}
 .arrowfts span {
     font-size: 17px;
     transform: rotate(

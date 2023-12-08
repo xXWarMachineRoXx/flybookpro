@@ -24,7 +24,7 @@ input[type="text"]:disabled {
     padding: 5px 16px;
     font-weight: 600;
     font-size: 15px;
-    background-color:#ff653c;
+    background-color:#e74933;
     border: none;
     color: #ffffff;
 }
@@ -110,7 +110,7 @@ input[type="text"]:disabled {
     margin: 2px 8px;
 }
 .element-input::placeholder{
-    color: #ff653c !important;
+    color: #e74933 !important;
 }
 .search-box1 .lowerform .large {
     border: solid 2px #214285;
@@ -268,7 +268,7 @@ input[type="text"]:disabled {
 .search-box1 .lowerform .element-adult ul li .ad-cut i {
     font-size: 19px;
     padding-right: 7px;
-    color: #ff653c;
+    color: #e74933;
 }
 
 .search-box1 .lowerform .large-adult {
@@ -342,12 +342,12 @@ input[type="text"]:disabled {
 }
 
 .activebutton {
-    border-bottom: 1px solid #ff653c;
-    color: #ff653c;
+    border-bottom: 1px solid #e74933;
+    color: #e74933;
 }
 
 .activebutton,.activebutton input[name="RoundMultiOnewayTrip"] {
-    accent-color: #ff653c;
+    accent-color: #e74933;
 }
 
 .element-search {
@@ -362,7 +362,7 @@ input[type="text"]:disabled {
     border: 0;
     font-size: 15px;
     border-radius: 30px;
-    background-color:#ff653c;
+    background-color:#e74933;
     cursor: pointer;
     display: inline-block;
 }
